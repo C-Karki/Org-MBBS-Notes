@@ -142,7 +142,7 @@ irregular rhythm disorder of atrium characterized by re-entry circuit in right a
 **** ecg
 - saw toothed flutter waves
 - should always be suspected when there is narrow complex tachycardia of 150/min 
-- https://ekg.academy/ecgLessons/atrialAssets/atrial12.gif
+https://ekg.academy/ecgLessons/atrialAssets/atrial12.gif
 **** management
 ***** initial treatment  
 - electric DC cardioversion with biphasic wave form
@@ -157,7 +157,7 @@ narrow complex tachycardias characterized by a re-entry circuit
   1. Atrioventricular nodal re-entrant tachycardia
   2. atrioventricular re-entrant tachycardia
 **** ECG 
-- https://upload.wikimedia.org/wikipedia/commons/b/bc/SVT_Lead_II-2.JPG
+https://upload.wikimedia.org/wikipedia/commons/b/bc/SVT_Lead_II-2.JPG
 **** TODO treatment
 *** Ventricular tachycardia
 **** definition
