@@ -1,0 +1,1400 @@
+* Cardiology
+** Arrythmias 
+*** pathogensis
+**** mechanisms 
+1. increased automaticity
+2. re-entry
+3. triggered activity
+*** clinical features 
+- many are asymp
+- sustained tachycardia
+  - rapid palpitations
+  - dizziness
+  - chest discomfort
+  - breathlessness
+- extreme tachycardia
+  - syncope \to heart unable to contract or relax properly
+- bradycardias \to symps that reflect low cardiac output
+  - fatigue
+  - lightheadedness
+  - syncope
+- extreme arrythmias may precipiate cardiac arrest or sudden death 
+*** Investigations 
+- 1st line \to 12 lead ECG
+- rest ECG normal \to ambulatory or patient acitvated ECG
+*** Atrial Fibrillation
+**** Definition 
+irreuglar rhythm disorder of the atria due to disorganized and rapid depolarization of the atria
+**** Mechanisms initiating AF
+1. ectopic beats, often arising from pulmonary veins, trigger AF
+2. Re-entry within atria maintains AF, with multiple interacting re-entry circuits operating simultaneously 
+**** Types
+| Parxosysmal AF | Episodes terminate spontaneously within 1 week and can reoccur                         |
+| Recurrent AF   | \geq 2 episodes of AF w/ sinus rhythm in between                                          |
+| Persisten AF   | continues for \geq 1 week and requires chemical/electrical cardioversion                  |
+| Permanent AF   | Established AF where cardioversion not attempeted, or failed, AF controlled with drugs |
+**** Etiology  
+1. Ischemic \heartsuit disease (eg. MI)
+2. Hypertension
+3. Pulmonary Embolism
+4. Chest infection
+5. Thyrotoxocosis
+6. Rheumatic Heart Disease
+7. Pericardial Disease
+8. Alcohol
+**** Clinical Features
+***** symptoms 
+1. asymp \to diagnosed thru routine ecg 
+2. palpitations
+3. fatigue
+4. breathlessness
+5. symps of cardiac failure \to AF precipitating it due to loss of Atrial function and HR control 
+6. angina
+7. lightheadedness \to due to fall in BP
+***** signs
+1. irregularly irregular pulse
+2. hpn
+3. Absent 'a' waves in jvp
+4. varying volume pulse
+5. varying intensity of S_{1}
+**** Investigations 
+***** ECG 
+- irregularly irregular rhythm of QRS complexes
+- ventricular rate \to 120-160/min
+- Absent P waves
+- Narrow QRS complexes
+- Fibrillary waves at 350-600/min or coarse waves at 150-300/min
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Afib_ecg.jpg/400px-Afib_ecg.jpg]]
+***** Others
+1. echo \to thrombus, dilatation, cause
+2. thyroid function test \to exclude thyrotoxocosis
+3. excercise testing
+4. electrolytes
+5. serum digoxin level 
+**** Management 
+***** aims 
+1. hemodynamic stabilisation
+2. rate control \to control of ventricular rate
+3. rhythm control \to restoration of sinus rhythm
+4. prevention of embolic complications and recurrence of AF
+5. Treatment of underlying cause
+***** paroxysmal AF 
+- occassional well tolerated attacks do not neccessarily require treatment 
+- \beta blockers \to first line drugs, \downarrow ecotopic firing which initiate AF  
+- above is given with Class Ic Drugs \to flecanide 
+- Class III \to Amiodarone
+- Digoxin and verapamil \to limit HR
+- cardiac ablation \to if drug therapy ineffective \to (optional definition) Catheter ablation is a procedure used to remove or terminate a faulty electrical pathway from sections of the hearts of those who are prone to developing cardiac arrhythmias  
+***** Persistent AF  
+****** options
+1. rhythm control
+2. rate control
+****** rhythm control 
+- immediate DC cardioversion \to after IV low molecular weight heparinization 
+- IV flecanide 2mg/kg over 30 min
+- anticoagulation for 3 months
+- IV amiodarone
+- Cardiac ablation 
+****** rate control 
+- digoxin
+- verapamil
+- \beta blockers
+- pace and ablate therapy \to for refractory causes
+****** thombroprophylaxis
+******* drugs
+1. aspirin
+2. warfarin 
+******* CHA_{2}DS_{2}VASc score
+******** C 
+\to congestive heart failure
+******** H
+\to hypertension history
+******** A_{2}
+\to Age \geq 75 years \to 2 pts.
+******** D 
+\to Diabetes Mellitus
+******** S_{2}
+\to Previous stroke or TIA \to 2 pts.
+******** V
+\to vascular disease
+******** A
+\to Age 65-74 years
+******** Sc
+\to sex category \to female
+******** scoring
+- 0 pt. \to no prophylaxis required
+- 1 pt. \to 1.3% anticoagulants recommended in males only
+- 2+ pt. \to 2.2% oral anticoagulants recommended 
+**** complications 
+1. syncope
+2. angina
+3. thromboembolism
+4. hypotension
+5. precipitate pulmonary edema in MS
+6. precipiate/worsen cardiac failure
+*** Atrial Flutter
+**** definition 
+irregular rhythm disorder of atrium characterized by re-entry circuit in right atrium encircling annulus
+**** characterisitics 
+- atrial rate \to approx. 300/min
+- assoc. w/ 2:1. 3:1. 4:1 AV block
+- 
+**** ecg
+- saw toothed flutter waves
+- should always be suspected when there is narrow complex tachycardia of 150/min 
+- https://ekg.academy/ecgLessons/atrialAssets/atrial12.gif
+**** management
+***** initial treatment  
+- electric DC cardioversion with biphasic wave form
+- pharmacological conversion
+  - digoxin, \beta blockers, verapamil 
+***** treatment for recurrent or persisent flutter
+\to catheter ablation 
+*** Paroxysmal Supraventricular Tachycardia (PSVT) 
+**** definition
+narrow complex tachycardias characterized by a re-entry circuit
+**** types:
+  1. Atrioventricular nodal re-entrant tachycardia
+  2. atrioventricular re-entrant tachycardia
+**** ECG 
+- https://upload.wikimedia.org/wikipedia/commons/b/bc/SVT_Lead_II-2.JPG
+**** TODO treatment
+*** Ventricular tachycardia
+**** definition
+- refers to any rhythm faster than 120 bpm with three or more irregular beats in a row, arising distal to the bundle of His
+- monomorphic VT \to if the QRS complex remains identical from beat to beat, occurs when the VT originates from single focus or circuit
+- polymorphic VT \to QRS morphology changes fromm beat to beat 
+**** ecg 
+https://3.bp.blogspot.com/-WmQmWVSNpvE/WCmwCiKnu4I/AAAAAAAAHwg/Xc5s-oMNpZYa2iy-hxUJMsPKvskNQKQRgCLcB/s1600/25%2529%2BVTACH.jpg
+- broad bizarre QRS complex with no preceding p wave in between normal sinus rhythm 
+**** TODO management 
+*** Heart blocks 
+**** definition
+- heart block or AV block means the delay or absence in conduction of impulses from the sinus node to the ventricles
+**** Etiology 
+- MI
+- Digitalis, \beta blockers, amiodarone inotoxication
+- coronary spasm
+**** first degree 
+***** features
+- asymp
+***** ECG 
+- prolonged AC conduction
+- PR interval > 0.20 seconds with normal QRS complexes
+https://litfl.com/wp-content/uploads/2018/08/ECG-Rhythm-strip-PR-interval-prolonged-extreme-1st-degree-AV-block.jpg
+***** treatment  
+- stop offending drugs
+- treat underlying cause
+- correct electrolyte abnormalities 
+**** second degree (mobitz type I) 
+***** also known as?
+- wenckebach phenomenon 
+***** features 
+- pt may complain of missed beats
+- some atrial pulses fail to conduct to the ventricles
+***** ECG
+- progressive prolongation of the successive PR intervals
+- absence of QRS complex after P wave
+- cycle repeats itself
+- QRS duration is normal 
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Heart_block.png/300px-Heart_block.png
+***** treatment
+- improves on its own
+- if symp \to atropine
+- close observation to check if it doesn't advance to mobitz type II or complete heart block
+**** second degree (mobitz type II)
+***** features 
+- conduction fails suddenly and unexpectedly without preceding change in the PR intervals
+- Usually caused by a problem in the His-Purkinje system
+- can cause asystole 
+***** ECG 
+- missed QRS complexes 
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Heart_block.png/300px-Heart_block.png
+***** treatment 
+- correct the reversible causes if possible
+- immediate temporary pacing
+- prophylactic pacing before complete heart block develops
+**** third degree 
+***** also known as:
+- complete heart block 
+***** features 
+- no atrial impulses propagate to the ventricles
+- patient complaints of syncope
+- patient becomes pale and faints, pulse is 30-40 bpm
+- complete recovery after a while
+- fainting attacks are known as stokes adams attack
+***** ECG 
+- AV nodal block 
+  - narrow QRS complex
+  - heart rate 40-55 bpm
+  - \uparrow HR with excercise or atropine
+- Block in His-Purkinje system
+  - escape rhythm with wide QRS
+  - RS 30-30 bom
+  - low or no respose to excercise or atropine
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Heart_block.png/300px-Heart_block.png
+***** treatment 
+- it should be paced if symp or persisent
+- permanent pacemaker implantation
+- atropine 0.6mg IV 
+** Coronary Artery Disease
+*** definition
+narrowing of the small blood vessels that supply blood and oxygen to the heart. This is usually the end result of the accumulation of atheromatous plaques within the walls of the arteries that supply the myocardium (the muscle of the heart) with oxygen and nutrients.
+*** stable angina
+**** definition
+symptom complex caused by transient myocardial ischemia, which occurs whenever there is an imbalance between myocardial oxygen supply and demand
+**** precipitating activities
+- physical exertion
+- exposure to the cold
+- heavy metals
+- intense emotion
+**** classification
+***** no. of classes?
+I-IV
+***** Class I
+angina only during strenuous or prolonged physical activity 
+***** Class II 
+Slight imitation with angina only during vigorous physical activity 
+***** Class III
+moderate imitation where symptoms occur with everyday activities 
+***** Class IV
+inability to perform any activity without angina or angina at rest
+i.e. severe imitation
+**** Investigations
+***** List
+1. Blood Investigations
+2. ECG
+3. Myocardial perfusion scanning
+4. stress echocardiography
+5. Coronary angiography \to gold standard
+***** excercise ECG
+[[file:/home/chitij/Downloads/IMG_20200605_115003~2.jpg]]
+- planar or downsloping ST segment
+- normal on resting ECG or signs of past infarction 
+***** Blood tests
+- Hb, CBC, TLC
+- Blood Glucose
+- Lipid Profile
+- RFT
+**** Managment
+***** Principles
+- careful assessment of the extenet and severity of aterial disease
+- identify and treat risk factors
+- advice on smoking cessation
+- identify high risk patients
+
+***** TODO Flowchart [Davidsons pg 489] 
+***** Antianginal drug therapy
+****** Nitrates
+- reduce preload
+- coronary dilator
+- inhibit platelet activation
+- e.g. nitroglycerin 0.4 or 0.6mg sublingual 
+****** \beta blockers
+- reduce oxygen demand by reducing heart rate and myocardial contractility 
+- atenolol 50-100mg OD
+- meteprolol 25-100mg 
+******* contraindicated
+1. bronchospam
+2. COPD
+3. PVD
+4. heart failure
+5. CAD 
+
+****** antiplatelets
+- aspirin (75-325mg/day)
+- clopidogrel 
+****** Potassium Channel blockers
+- relaxes vascular smooth muscles
+- nicorandil 10-30 bd
+****** Calcium channel blockers
+******* types
+1. dihydropyridine
+2. non dihydropyridine
+******* dihydropyridine  
+- peripheral acting
+- \downarrow BP
+- amlodipine 5-10mg QID
+- nifedipine 30-90 mg per day
+******* non dihydropyridine
+- central acting
+- coronary dilatation
+- diltiazem 30-80 mg qid
+- verapamil 80-160mg tds
+****** Statins
+- atorvastatin
+- rosuvastatin
+***** non pharmacological
+****** includes?
+1. percutaneous coronary intervention
+2. coronary artery bypass graft
+***** lifestyle advice
+1. don't smoke dude
+2. aim for an ideal body weight (lose that weight fatass)
+3. excercise regularly
+4. avoid severe unaccustomed exertion
+5. take sublingual nitrates before undertaking any exertion that may induce angina 
+**** Differences between Stable Angina and Acute Coronary Syndrome
+|-------------------+-----------------------+--------------------------|
+|                   | Stable Agina          | ACS                      |
+|-------------------+-----------------------+--------------------------|
+| Pathophysiology   | fixed stenosis        | dynamic stenosis         |
+|                   | stable fibrous plaque | ruptured/inflamed plaque |
+|-------------------+-----------------------+--------------------------|
+| Clinical Features | - demand led ischemia | - supply led ischemia    |
+|                   | - related to effort   | - symptoms at resting    |
+|                   | - predictable         | - unpredictable          |
+|                   | - symp over long term | - symp over short term   |
+|                   | - nope                | - frequent night symp    |
+|-------------------+-----------------------+--------------------------|
+*** Acute Coronary Syndrome
+**** contains?
+1. Unstable Angina
+2. Myocardial Infarction
+**** unstable angina?
+characterised by 
+- rapidly worsening angina (crescendo angina)
+- agina on minimal exertion
+- angina at rest in the absence of myocardial damage
+**** MI
+***** Definition 
+clinical syndrome characterized by sudden onset of severe precordial chest pain due to complete occlusion of coronary blood flow to a part of the heart muscles  
+***** Etiopathogenesis
+- plaque vulnerability and extrinsic factors triggers result in plaque rupture
+***** Risk factors 
+- non-modifiable
+  * Age
+  * Sex ( male > female )
+  * ethnicity
+  * family hx of ischemic heart disease
+  * Previous MI
+- modifiable 
+  * Smoking
+  * DM
+  * Obesity (BMI > 30 kg/m^{2})
+  * HTN
+  * Hyperlipidemia
+  * Low HDL cholesterol
+  * Sedentary Lifestyle
+  * Atherogenic Diet
+***** Clinical Presentation 
+****** List?
+******* Symptoms
+- prolonged cardiac pain
+- that radiates to chest, throat, arms, epigastrium or back
+- anxiety or impending fear of death
+- nausea and vomiting
+- breathlessness
+- collapse/syncope
+******* physical signs
+- signs of sympthatetic activation
+  \to pallor, sweating, tachycardia
+- signs of vagal activation
+  \to vomting, bradycardia
+- Signs of impaired myocaridal function
+  * HPN, oliguria, cold peripheries
+  * Narrow Pulse Pressure
+  * Raised Jugular Venous Pressure
+  * Third heart sound
+  * Quiet first heart sound
+  * diffuse apical impulse
+  * lung crepitations
+- signs of tissue damage \to fever
+- signs of complications \to mitrl regurgitation, pericarditis
+****** Pain
+1. site
+   central portion of chest and/or epigastrium
+2. onset
+   - at rest or during a period of exertion
+   - does not usually subside with cessation of activity unlike angina pectoris  
+3. character
+   - heavy
+   - constricting
+   - crushing
+4. radiation
+   - to the arms, jaws, shoulder, neck
+5. associated symptoms
+   - weakness
+   - sweating
+   - nausea
+   - vomiting
+   - anxiety
+6. time
+   - lasts for >30 min
+   - can occur any time
+   - clusters are seen in the morning 
+7. precipitating factors
+   - vigorous physical excercise
+   - emotional stress
+   - medical or surgical illness
+****** Stages 
+1. acute (first few hours - 7 days)
+2. healing (7-28 days)
+3. Healed (>29 days)
+***** Diagnosis (WHO Criteria) 
+****** Requires 
+- \geq 2 of the following
+  1) Prolonged ischemic type chest discomfort
+  2) Serial ECG changes
+  3) Rise and fall of serum cardiac biomarkers
+****** Lab Tests  
+1. ECG
+2. Serum Cardiac Biomarkers
+3. Cardiac Imaging
+4. non specific indices of tissue necrosis and inflammation
+****** ECG
+******* pathology
+https://ecgwaves.com/wp-content/uploads/2016/09/nstemi-acute-mi-infarction-ischemia-unstable-angina-stemi-ecg.jpg
+******* pic
+https://image.slidesharecdn.com/ecgmyocardialinfarction-180106025112/95/ecg-changes-in-myocardial-infarction-5-638.jpg?cb=1538262142
+******* Ischemia
+\to T-wave inversion
+******* ST Elevation MI (STEMI)
+- hyperacute changes with tall t waves
+- ST Elevation > 1 mm in limb leads or > 2 mm in \geq 2 successive chest leads 
+- https://ecgwaves.com/wp-content/uploads/2017/06/ecg-stemi-acute-st-elevation-myocardial-infarction-criteria.jpg
+- https://ecgwaves.com/wp-content/uploads/2017/06/ecg-acute-stemi-myocardial-infarction.jpg
+******* Non STEMI (NSTEMI) 
+- ST depression
+- T wave inversion  
+- non specific changes 
+- [[https://i.pinimg.com/originals/69/b4/b6/69b4b6cb0a5721e6291151fafa285a14.png]] 
+****** Serum Cardiac Biomarkers
+******* significance 
+released fromd necrosed myocardial cells and useful in monitoring extent of damage
+[[https://i.pinimg.com/originals/53/36/b1/5336b145681ccdcbb8bbafad43bf8308.jpg]]
+******* list?
+1. CPK-MB
+2. Tropnin T or I
+******* CPK-MB 
+- rises in 4-8 hours, peaks at 12 hours and returns to normal by 48-72 hours
+- high specificity to MI
+- increase after 4 hours, significant 
+- ratio of CPK-MB2/CPK-MB1 > 1.5 is significant
+https://i.pinimg.com/originals/53/36/b1/5336b145681ccdcbb8bbafad43bf8308.jpg
+******* Troponin T or I
+- released within 4 hours and remains for 
+https://i.pinimg.com/originals/53/36/b1/5336b145681ccdcbb8bbafad43bf8308.jpg
+****** Cardiac Imaging/ Echocardiography 
+- assess regional wall abnormalities
+- assess systolic function
+- detect complications
+****** Non specific indices
+******* list? 
+1. TLC
+2. DLC
+3. ESR
+******* TLC and DLC 
+WBC count upto 12,000-15,000/mm^{3}
+Polymorphonuclear leucocytosis appears within the first hour
+******* ESR 
+rises but more slowly than WBC count
+****** others
+1. Chest X-ray \to may show features of acute pulmonary edema
+2. Blood glucose
+3. Lipid profile
+4. CRP
+5. Urea and electrolytes
+*** Management
+**** outline
+***** phases? 
+1. Pre-hospital care
+2. Emergency Care
+3. Hospital care 
+***** Emergency Care
+   - Assessment and admission
+   - Oxygen therapy
+   - Antiplatelet therapy \to (Aspirin)
+   - Control of discomfort \to (Nitrates/Morphine/\beta-blockers)
+   - Reperfusion therapy
+     * Primary PCI
+     * Firinolysis
+*****  Hospital Management
+   - Management in ICCU/CCU
+   - General care
+     * activity
+     * diet
+     * bowel
+     * sedation
+   - Pharmacological mgmt
+     * Anticoagulants
+     * ACI inhibitors
+     * Nitrates
+     * \beta-blockers
+   - PTCA
+   - CABG
+**** Prehospital care 
+1. recognition of symp by pt and prompt seeking of medical attention
+2. rapid deployment of an emergency medical team capable of performing resuscitative maneuvers include defib
+3. Fast transport of pt to a centre with adequate facilities and skilled manpower
+4. expeditious implementation of reperfusion therapy
+**** Emergency care 
+***** components 
+   - Assessment and admission
+   - Oxygen therapy
+   - Antiplatelet therapy \to (Aspirin)
+   - Control of discomfort \to (Nitrates/Morphine/\beta-blockers)
+   - Reperfusion therapy
+     * Primary PCI
+     * Firinolysis
+***** Assessment and admission
+- confirmation of diagnosis
+- secure an IV access
+- start 5% dextrose drip ti keep vein open
+- continuous ECG monitoring
+- Admission to ICU
+***** Oxygen therapy
+Based on results of pulse oximetry or ABG:
+- If SaO_{2} is normal, then O_{2} therapy not effective
+- If hypoxemia then O_{2} should be administered by nasal prongs (2-4L/min) for the first 6-12 hours after infarction
+
+***** Antiplatelets 
+\to aspirin 160-325mg tab followed by 75-162mg/day orally
+
+***** Control of discomfort
+****** components
+1. Nitrates
+2. Morphine
+3. \beta blockers 
+******  Nitrates
+******* Dosages
+- Sublingual up to three doses of 0.4 mg at about 5-min intervals
+
+- Intravenous if chest pain recurs after initial relief with sublinugal nitroglycerins 
+******* Benefits
+1. reduce or remove chest pain
+2. decreases myocaridal O_{2} demand \to (by lowering preload)
+3. increase myocardial O_{2} supply \to (by dilating infarct related coronary vessles)
+******* Contraindications 
+1. Systolic arterial pressure \to (<90mmHg)
+2. clinical suspicion of right ventricular infarction
+3. Phospodiesterase-5 inhibitor (sildenafil aka viagra lol)
+****** Morphine
+- every 5 min IV inj of small doses (2-4mg)
+- vagotonic effect 
+****** \beta blockers 
+******* uses
+- To control pain
+- reduce risk of reinfarction and ventricular fib
+- \beta blockers reduce long term mortality through its antiarrthythmic action and prevention of reinfarction
+******* prerequisites 
+- HR > 60 bpm
+- systolic pressure > 100 mmHg
+- PR interval < 0.24s
+***** Reperfusion therpay 
+****** components
+1. percutaneous coronary intervention
+2. fibrinolysis
+****** percutaneous coronary intervention (PCI)
+- primary PCI (angiography or stenting) \to PCI without fibrinolysis first 
+****** fibrinolysis (Thrombolysis)
+*******  Dosage
+if no given contraindications
+******* 
+**** Hospital Care
+***** General care 
+****** components?
+1. activity
+2. diet
+3. bowel
+4. sedation
+****** activity
+- bed rest for \to 12 hours
+- dangling feet or chair use after \to 24 hours
+- ambulation on \to 3rd day
+- discharge after \to 5-7 days
+- climbing stairs \to after 2 weeks
+- return to work \to after 4-6 weeks
+****** diet
+- liquid diet for the first 4-12 hours
+- diet containing high potassium, magnesium, fibres and low Na^{+}
+****** bowel
+stool softeners to avoid straining during defecation 
+****** sedation
+diazepam 5mg / lorazepam 5 mg
+***** Phamrcological treatment
+****** components
+1. anticoagulants
+2. ACE Inhibitors (ACEI)
+3. \beta blockers
+4. Nitroglycerin
+****** anticoagulants
+- unfractionated heparin
+- low molecular weight heparin 
+****** ACE Inhibitors (ACEI)
+- After 24 hours to all STEMI
+- Catopril 6.5mg TDS
+- stopped after 48 hours
+- long acting ACEI like anlapril 5-10 mg/day started
+****** Nitroglycerin
+- 5-10 µg initial dose
+- upto 200 µg/min as long as hemodynamic stability is maintained 
+ 
+***** others 
+1. PTCA \to Percutaneous Transluminal Coronary Angioplasy
+2. CABG \to Coronary Artery Bypass Graft 
+*** Differential dx
+1. Acute Pericarditis
+2. Pulmonary Embolism
+3. Acute Aortic Dissection
+4. Costochondritis
+5. GI disorders 
+*** Complications
+1. Arrhythmias
+   * AFib
+   * Atrial Flutter
+   * Ventricular Tachycardia
+   * Bradycardia
+   * Heart Block
+2. Post Infarction Ischemia
+3. ACute LV failure
+4. Pericarditis
+5. Mechanical Complications
+   * Papillary msucle damage (Mitral regurgitation)
+   * Rupture of ventricular septum
+   * Cardiac tamponade
+   * Ventricular Aneurysm
+6. Embolism
+7. Impaired ventricular function
+** Valvular Disease 
+*** Mitral Stenosis
+**** definition
+narrowing of the orifice or the mitral valve of the heart
+**** Etiology 
+1. Rheumatic fever \to commonest
+2. Congenital
+3. Severe mitral annular calcification
+4. SLE, RA
+5. Left atrial myxoma
+6. Infective Endorcarditis with large vegetations
+**** Patholophysiology 
+***** diagram
+https://i.pinimg.com/originals/04/f2/a4/04f2a4052413a66e88740cba0751dfb8.jpg
+**** Clinical Diagnosis
+***** Symptoms
+1. Progressive Lifelong disease
+2. Take two decades for initial symptoms to appear after first attack of rheumatic carditis
+3. breathlessness \to (pulmonary congestion)
+4. fatigue \to (low cardiac output)
+5. edema, ascites \to (RHF)
+6. palpitations \to (Atrial Fib)
+7. Hemoptysis \to (pulmonary congestion)
+8. Cough \to (pulmonary congestion)
+9. Chest pain (pulmonary htn)
+10. symptoms of thromboembolic complications (stroke, ischemic limb)
+All these features are worsended by conditions increase cardiac output 
+***** Physical Findings
+****** inspection 
+- mitral facies \to (malar flush with pinched and blue facies)
+- JVP \to (prominent 'a' waves)
+****** palpation 
+- small volume pulse
+- BP is normal
+- RV tap along left sternal border \to enlarged RV
+- diastolic thrill \to seen at cardiac apex in pt in left lat. recumbent position
+- features of right ventricular failure
+  * Hepatomegaly
+  * Ankle edema
+  * Ascites
+  * Pleural effusion
+****** Auscultation 
+******* feat 
+- S_{1} usually accentuated and delayed
+- S_{2} \to P_{2} often accentuated
+- opening snap of mitral valve (OS) \to audible in expiration, med. to cardiac apex
+https://www.easyauscultation.com/courseMedia/A125.mp4
+******* Murmur
+  * Character \to low pitched, rumbling diastolic murmur
+  * Site \to heard best at apex with pt. in left recumbent pos^{n}
+  * Accentuated by \to mild excercise
+  * Duration \to depends on severity
+  https://www.easyauscultation.com/courseMedia/A125.mp4
+**** Investigations 
+***** List?
+1. ECG
+2. Echocardiography
+3. Chest X-ray
+4. Cardiac catheterization
+5. Doppler
+6. Blood
+***** ECG
+- P-mitrale \to (wide and notched P-wave)
+https://litfl.com/wp-content/uploads/2018/08/ECG-strip-bifid-P-wave-p-mitrale.jpg
+- Atiral flutter or fib
+- normal QRS
+- right axis deviation and RV hypertrophy with sever pulmonary htn
+***** Echocardiography
+- Transthoracic two dimensional echo (TTE) w/ color flow doppler
+- Transesophageal echo (TEE)
+- Role
+  * assessment of severity
+  * assessment of RV size and function
+  * surgical suitability
+  * concomitant lesion identification 
+***** Chest X-ray
+https://s3.amazonaws.com/static.wd7.us/e/ea/M.S_chest_X-ray.jpg
+https://s3.amazonaws.com/static.wd7.us/7/77/Chest_X_ray_of_mitral_stenosis_with_borders.bmp
+ + In blue: outline of the heart (mildly enlarged)
+ + In yellow: double right heart border
+ + In red: straightening of the left border of the heart suggestive of enlargement of the left atrium
+ + Other findings
+   - prominence of main pulomary arteries
+   - post. displacement of esophagus by enlarged LA
+   - Kerley lines \to fine dense opaque horizontal lines seen in lower and mid lung fields \to results from distention of interlobular septae by pulmonary edema 
+***** Cardiac catheterization
+- CAD
+- Pulmonary artery pressure
+- Mitral stensosis and regurg
+***** Doppler
+- pressure gradient across mitral valve
+- pulmonary artery pressure
+- LV func^{n}
+***** Blood
+1. TLC and DLC
+2. ESR
+3. ASO titre 
+
+**** Differentials 
+1. Significant MR
+2. Severe AR
+3. Tricuspid Stenosis
+4. Atrial Septal Defect
+5. Left atrial myxoma 
+
+
+
+
+**** Treatment 
+***** Medical 
+- prevention of rheumatic fever \to penicilin
+- treatment of \heartsuit failure 
+  1. restrict Na^{+} intake
+  2. maintainance dose of oral diuretics 
+- treat arrhythmias \to digitalis, \beta blockers, CCB \to treat A Fib
+- Anticoagulation \to Warfarin to INR 2-3
+***** Surgical
+- percutaneous baloon valvuloplasty
+  - no MR
+  - pliable valve
+  - no LA clot
+- mitral valvotomy
+- mitral valve replacement (MVR) 
+  - mechanical \to more durable but high risk of thromboembolism \to lifelong anticoagulant therapy
+  - bioprosthetic \to less durable so not used in young pt
+  - procedure done with preservation of chordal attachments \to optimize LV function recovery 
+****** MVR indications  
+1. pt. w/ MS
+2. severely distorted valve 
+3. valve function cannot be improved through other means
+****** criteria for mitral valvuloplasty 
+1. significant symptoms
+2. isolated MS
+3. no MR
+4. mobile, non-calcified valves on echo
+5. left atrium free of thrombus
+**** Complications 
+1. Atrial dysrrhythmias
+2. systemic embolization
+3. congestive \heartsuit failure
+4. pulmonary infarcts
+5. hemoptysis 
+*** TODO Mitral regurgitation 
+*** TODO Aortic Stenosis 
+*** Aortic Regurgitation 
+**** Definition
+Aortic regurgitation is the backward flow of blood from the aorta into the left ventricle through the aortic valve during systole due to abnormalities in the aortic valve or the aorta.
+**** Etiology 
+|------------------------+-----------------------|
+| Valvular               | Root Disease          |
+|------------------------+-----------------------|
+| Rheumatic fever        | Aortic dissection     |
+| Congenital             | Cystic medial degen   |
+| Endocarditis           | Marfan syndrome       |
+| Myxomatous (prolapse)  | Bicuspid syndrome     |
+| Traumatic              | Nonsyndromic familial |
+| Syphillitic            | Aortitis              |
+| Ankylosing Spondylitis | HTN                   |
+|------------------------+-----------------------|
+**** Clinical Features 
+***** symptoms 
+****** acute severe AR
+- pulmonary edema
+- cardiogenic shock 
+****** Chronic severe AR
+- latent period (10-15 years)
+- palpitations, especially while laying down
+  \to caused by sinus tachycardia
+  \to casued by premature ventricular contractions
+- extertional dyspnea followed by
+  * orthopnea
+  * paroxysmal nocturnal dyspnea
+  * excessive diaphoresis
+- anginal chest pain
+- nocturnal angina
+- ankle edema \to cause: congestive hepatomegaly 
+***** Physical findings 
+****** peripheral signs
+******* list
+https://1.bp.blogspot.com/-UfyuqK23Ptg/VoYcZg8qt3I/AAAAAAAAA84/skJIlwwRMeM/s1600/Signs%252Bof%252BAR_MedicosNotes_com.png
+
+file::/home/chitij/Downloads/ARsigns.png  
+1. quincke's sign
+2. corrigan's pulse
+3. locomotor brachialis
+4. BP
+5. corrigan's sign
+6. De Musset sign
+7. Traube's (pistol shot)
+8. Duroziez's sign 
+9. Muller sign
+10. Hill sign 
+11. Rosenbach sign
+12. Gerhardt's sign
+13. Landolfi's sign
+14. becker's sign
+15. lighthouse sign  
+******* quincke's sign
+- \to press on the tip of nail and observe nailbed 
+  \to blanching seen
+- prominent digital artery pulsation visible on blanched nail bed
+  https://img.grepmed.com/uploads/4652/aorticregurgitation-quinckes-severe-pulse-nailbed-original.gif
+******* corrigan's pulse
+waterhammer pulse 
+******* corrigan's sign 
+dancing carotid 
+[[https://img.grepmed.com/uploads/5227/clinical-aorticregurgitation-insufficiency-corrigans-video-original.gif]]
+******* locomotor brachialis
+pulsatile brachialis artery 
+******* BP
+wide pulse pressure 
+low diastolic pressure 
+******* De Musset sign
+- jarring of entire body and the bobbing motion of the head with each systole
+- pulsation in the suprasternal notch 
+******* Traube's (pistol shot)
+booming sound on ausculting femoral artery 
+******* Duroziez's sign 
+diastolic murmur on compression of femoral artery proximally
+******* Muller sign
+pulsation of uvula
+******* Rosenbach sign
+pulsation of liver
+******* Gerhardt's sign
+pulsation of spleen
+******* hill sign
+\uparrow femoral artery BP > 20mmHg above brachial artery systolic 
+******* Landolfi's sign
+change in the size of pupil w/ each systole
+******* becker's sign
+pulsation in retinal artery 
+******* lighthouse sign  
+alternate blanching flushing in forehead
+****** inspection and palpation 
+- heaving LV impulse is displaced lat. and inf.
+- prominent systolic expansion and diastolic retraction of the apex
+- diastolic thrill \to along left sternal border
+- prominent systolic thrill
+****** auscultation 
+- S_{1} \to audible
+- S_{2} \to A_{2} absent in severe AR
+- S_{3} (gallop) \to audible in left ventricular dysfunction 
+- S_{4} \to heard occasionaly \to due to impaired left ventricular filling against a hypertrophied left ventricular wall.
+- Murmur
+  * diastolic
+  * site \to 3rd ICS along left sternal border
+  * character \to high pitched blowing
+  * increases w/ severity of AR
+  * [[https://s3.amazonaws.com/static.wd7.us/5/5f/Early_diastolic.jpg]]
+  * [[https://s3.amazonaws.com/static.wd7.us/5/5f/Early_diastolic.jpg]] 
+- other murmurs
+  - systolic murmur \to due to \uparrow stroke volume
+  - austin flint mumur (soft middiastolic)
+  [[https://youtu.be/y5CcncRHl38]]
+    
+**** Investigations  
+***** List?
+1. ecg
+2. cxr
+3. echo
+4. cardiac catherization and angiography
+5. Blood tests 
+***** ecg  
+- non-specific 
+- Nonspecific changes of ST and T wave \to (due to left ventricular enlargement)
+- LV hypertrophy [[https://s3.amazonaws.com/static.wd7.us/2/2a/LVH.png]]
+- conduction defects
+***** Chest x ray 
+[[https://s3.amazonaws.com/static.wd7.us/f/f1/Aortic_regurgitation_x-ray.jpg]]
+- cardiomegaly
+- prominent aortic knuckle \to from aortic root dilation
+- features of left \heartsuit failure
+***** echocardiography
+- preferred imaging tool 
+- dilate left ventricle
+- hyperdynamic left ventricle
+- doppler detects reflux
+- [[https://youtu.be/J-Qs_evodww]]
+***** Blood tests 
+- TLC, DLC
+- ESR
+- ASO Titre
+- VDRL, ANF, Rheumatoid Factor
+**** Management 
+***** Acute AR
+- treatment of underlying cause
+- emergency treatment of cardiogenic shock if needed  
+- stabilisation with IV diuretics and vasodilators \to (nitroprusside) \to works by reducing afterload 
+***** Chronic AR
+|------------------------+--------------------------------------|
+| Drugs                  | Purpose                              |
+|------------------------+--------------------------------------|
+| ACEIs, CCBs            | for dyspnea and effort intolerance   |
+| Vasodilators           | control systolic BP (goal: <140mmHg) |
+| Nitrates               | for relief of anginal pain           |
+| full course penicillin | for syphilitic aortitis              |
+| \beta blockers             | slow rate of aortic enlargement      |
+|------------------------+--------------------------------------|
+***** Surgery 
+- Atrial Valve Replacement (AVR) \to MUST be down in symptomatic severe AR
+- 55/55 Rule
+  - operation must be done in asymp pt. w/ severe AR with progressive LV Dysfunction
+  - criteria
+    * LVEF < 50%
+    * LV end-systolic dimension > 55mm or end-systolic vol > 55mL/m^{2} or a LV diastolic dimension > 75 mm
+** Rheumatic Fever 
+*** Definition  
+autoimmune reaction to infection with group A streptococci
+*** Pathogenesis 
+*** Jones Criteria 
+**** pic
+[[https://qph.fs.quoracdn.net/main-qimg-260c933bdc8f43243442954ad263db08.webp]]
+**** Major
+***** list?
+1. carditis and valvulitis (clinical or subclinical)
+2. polyarthritis, usually large joints 
+3. syndeham chorea
+4. erythema marginatum
+5. subcutaneous nodules 
+***** carditis
+active carditis refers to presence of one or more of following:
+1. significant new mumur that indicates mitral or aortic insufficiency
+2. pericarditis \to pericardial rub or evidence of pericardial effusion
+3. evidence of CHF
+***** Polyarthritis 
+- two or more joints
+- joints involved simultaneously or in a migratory fashion
+- large joints commonly involved
+***** Syndeham chorea
+- emotiomal instability and involuntary movements
+- becomes progressively more sever
+- development of ataxia and slurring of speech
+- muscle weakness after involuntary movements
+- self-limiting invidual attacks 
+***** Erythema Marginatum 
+- consists of macular erythematous rash w/ circinate border and appears primarily on the trunk and extremities 
+***** Subcutaneous nodules 
+- commonly appears over the joints, scalp and spinal column 
+- Vary from a few millimetres to 2 cm in diameter, nontender and free movable under the skin
+**** Minor
+1. Clinical
+   - fever \to low grade
+   - polyarthalgia \to pain in \geq 2 joints without swelling and tenderness 
+2. Lab
+   - acute phase reactants 
+     - raised esr or crp
+     - leucocytosis
+   - ecg \to prolonged pr interval 
+**** essential criteria
+1. recent scarlet fever
+2. raised antistreptolysin
+3. +ve throat culture
+**** Diagnosis  
+should meet the folowing:
+- 2 major criteria
+- 1 major + 2 minor
+- along with essential criteria in both above cases
+- Joint and cardiac symptoms can be counted only once 
+*** Treatment 
+**** acute episode
+***** anti infective therpay 
+eradication of the streptococci infection:
+- benzathine penicilin G \to drug of choice \to give single IM inj. of 0.6 mil units every 15 days or 1.2 mil units every 21 days
+- procaine penicilin 400k units IM DB for 10 days
+- erythromycin 250 mg orally 4 times a day if pt allergic to penicilin 
+***** anti inflammatory agents
+- aspirin 90-120 mg/kg/day given in four divided doses for 10 weeks then taper over 2 weeks
+- corticosteroids in the unusual patients with severe carditis, severe arthritis and manifestations of CHF
+- treatment of chf:
+  - bed rest
+  - steroids
+  - ACEI
+  - digoxin
+- chorea \to haloperidol or diazepam
+**** after acute episode
+- prophylaxis
+  + benzathine penicilin G 1.2 mil units IM every 3-4 weeks \to drug of choice
+  + sulfadiazine 500 mg daily as a single oral dose for pt. weighing over 27 kg \to 2nd choice
+  + pt. alleric to penicilin \to ertyhromycin 250mg bid 
+**** residual valve damage 
+- chronic chf may follow a single severe episode of acute rheumatic carditis
+- severe valvular damage \to surgical valve replacement therapy, medical therapy not effective 
+*** Prophylaxis
+**** types
+1. primary
+2. secondary
+**** primary 
+- elimination of major risk factors for strep infection such as overcrowded housing and inadequate hygiene infrastructure
+- timely and complete treatment of group A strep sore throat w/ antibiotics
+- if commenced within 9 days of sore throat onset, a course of 10 days of penicilin V 500 mg bid 
+**** secondary 
++ long term penicilin prophylaxis to prevent recurrence
++ benzathine penicilin G 1.2 mil units IM every 3-4 weeks \to drug of choice
++ sulfadiazine 500 mg daily as a single oral dose for pt. weighing over 27 kg \to 2nd choice
++ pt. alleric to penicilin \to ertyhromycin 250mg bid 
+**** duration of secondary prophylaxis
+- pt w/out proven carditis \to for 5 years after last attack or until 18 years of age (whichever is longer)
+- pt. w/ carditis \to for 10 years after last attack or until 25 years (whichever is longer)
+- more severe valvular disease \to lifelong
+- valvular surgery \to lifelong
+** Infective Endocarditis 
+*** Definition
+proliferation of microorganisms on the endothelium of the heart 
+*** Types  
+**** Acute
+- febrile illness that rapidly damages the cardiac structures
+- hematogenously seeds extracardiac sites
+- if untreated \to death
+**** SubAcute 
+- Indolent course
+- causes cardiac damage slowly
+*** Etiology
+| Type           | Organism         |
+|----------------+------------------|
+| Subactue       | Step viridans    |
+| Acute          | S. Aureus        |
+|                | S. pneumoniae    |
+|                | Strep. pyogenes  |
+| Post \heartsuit surgery | Staph. epidymids |
+| Others         | HACKEK group     |
+|                | (Hemophilius     |
+|                | Actinobacillus,  |
+|                | Cardiobacterium, |
+|                | Eikenella,       |
+|                | Kingella)        |
+*** Predisposing procedures 
+1. Tonsillectomy
+2. Surgery on respiratory mucosa \to bronchoscopy, dental extractions, cystoscopy
+3. IV drug users
+4. Cardiac surgery
+5. IV cannulation
+*** Clinical features 
+**** due to infection
+  - ill health
+  - fatigue
+  - malaise
+  - lassitude
+  - loss of apetite
+  - wt. loss
+  - clubbing
+  - fever w/ chills and rigor
+  - splenomegaly
+  - cafe au lait pigmentation
+**** hemodynamic changes
+  - varying murmurs
+  - chf
+  - MI \to due to embolization to coronary arteries
+**** Immunological changes
+  - petechiae
+  - osler's nodes \to painful tender swollen nodules in pulps of fingers
+  - roth spots \to retinal hemorrhage with white cetnre
+  - glomerulonephritis
+  - hematuria
+**** Acute IE
+- severe febrile illness
+- prominent and changing murmurs
+- embolic episodes
+- rapid renal and heart failure 
+**** Post op IE
+- any unexplained feer in a pt who has had cardiac valve surgery \to investigate
+- high morbidity/mortality
+*** Investigations
+**** list? 
+1. Blood
+2. Urine
+3. Blood culture 
+4. echocardiography
+5. Rheumatoid factors, immune complexes  
+6. ECG
+7. CXR
+**** Blood 
+- CBC \to normocytic, normochromic, anemia, leucocytosis 
+- \uparrow CRP
+**** Urine 
+microscopic hematuria and albuminuria
+*** Modified Duke's Criteria 
+**** pic
+[[https://afghanheart.files.wordpress.com/2014/02/my-duckes-criteria-2.png]]
+**** Major criteria
+1. +ve blood culture if: 
+   - typical microorganisms from two separate blood cultures 
+   - community acquired enterococci in absence of primary focus
+   - persistently +ve blood cultures
+   - blood cultures drawn > 12 hours apart
+2. +ve echocardiogram if: 
+   - oscillating intracardiac mass on valve or supporting structures 
+   - abscess
+   - new partial dehiscence of prosthetic valves or new valvular regurg
+**** Minor criteria 
+[[https://3.bp.blogspot.com/-U1SZKjK1fbs/T3EE16e4o5I/AAAAAAAAA3g/t037J8CMFNo/s1600/Infective+endocarditis.jpg]]
+1. Predisposition
+2. Fever > 38.0 °C (100.4 °F)
+3. Vascular phenomenon
+   - major arterial emboli
+   - septic pulmonary infarcts
+   - mycotic aneurysm
+   - intracranial hemorrhage
+4. Immunological phenomenon 
+   - glomerulonephritis
+   - Osler's nodes
+   - Roth's spots
+   - rheumatoid factors
+5. microbiologic evidence \to +ve blood culture not meeting major criterion
+6. Echocardiographic positivity but not meeting major criteria
+7. IV drug abuse
+8. Embolic phenomena
+**** Diagnosis
+***** Definitive 
+- 2 major or
+- 1 major and 3 minor or
+- five minor
+***** Possible endocarditis 
+- 1 major and 1 minor or
+- 3 minor 
+*** Management 
+**** components?
+1. appropriate antibiotics
+2. monitoring progress
+3. assessment for the need for surgery 
+**** medical 
+- antibiotics against common organisms
+- modified by culture sensitivity reports and response
+- common regimes:
+  - steptococci \to penicillin G
+  - staphylococci \to nafcillin or oxacillin
+  - MRSA \to vancomycin
+  - HACEK \to ceftriaxone
+**** monitoring  
+- vital signs
+- alteration in clinical findings
+- tlc and dlc
+- CRP
+- repeate blood culture if temp doesn't subside
+- watch for complicatiosn
+- weekly echo for vegetations
+**** surgical 
+- debridement of infected materials and valve replacement
+*** complications 
+1. septicemia
+2. heart failure
+3. pulmonary embolism
+4. septic embolisation of vegetations
+5. rupture of mycotic aneurysm 
+*** prophylaxis 
+- std. oral regimen \to amoxicilin 2g PO within 1 hour before procedure
+- inability to take oral medication \to ampicllin 2 g IV or IM within 1 hour before procedure
+- penicilin allergy \to clarithromycin or azirthromycin 500 mg PO 1 h before procedure
+- pecillin allergy, inability to take orally \to cefazolin or ceftriaxone 1g IV or IM 30 min before procedure 
+** Deep vein Thrombosis 
+*** Definition
+thormbus formation in the deep veins, mainly of the lower limbs 
+*** Sites 
+1. Deep veins of lower limbs
+2. Pelvic veins
+3. Right atrium in fibrillation
+4. Right ventricles 
+*** Pathogenesis 
+- Virchow's Triad
+  1) Stasis of blood
+  2) Abnormalities of vessel wall (endothelial injury)
+  3) hypercoagubility 
+*** Risk factors 
+1. hypercoaguable states
+2. Obesity
+3. \uparrow age
+4. low cardiac output
+5. sepsis
+6. polycythemia
+7. prolonged bed rest
+*** Clinical features
+- low grade fever
+- pain, tenderness, warmth and swelling of calf muscles
+- Homan's sign \to pain in calf muscles
+- cyanosis, edema, gangrene later
+*** Investigations 
+- D-dimer elevated for 7 days
+- Doppler USG \to failure to compress vascular lumen
+- Acending contrast venography
+- Radiofibrinogen method
+- Investigation for thrombophilic states
+*** Management  
+- Best rest with legs elevated to 15°
+- Physiotherapy
+- graduated elastic compression stocking
+- start heparin and continue with warfarin 
+** Hypertension  
+*** Definition 
+presence of BP elevation to a level that places patients at increased risk for target organ damage in several vascular beds, including retina, brain, heart, kidneys
+*** Accelerated HTN
+A significant recent increase in BP over previous hypertensive levels, associeated with evidence of vascular damage on fundoscopic examination without pappiloedema 
+*** Hypertensive Urgency 
+marked elevation of BP (>180/120 mmHg) but without any evidence of end organ damage
+
+BP can be controlled gradually 
+*** Hypertensive emergency
+marked elevation of BP (>180/120 mmHg) but with evidence of some end organ damage
+
+requires immediate control of BP to prevent further end organ damage 
+*** Classifiction 
+**** list?
+1. normal
+2. prehypertension
+3. stage 1 htn
+4. stage 2 htn
+5. isolated systolic htn
+**** normal
+| systolic | diastolic |
+| < 120    | and < 80  |
+
+**** prehypertension
+| systolic  | diastolic |
+| > 120-139 | or 80-89  |
+
+**** stage 1
+| systolic | diastolic |
+|  140-159 | or 90-99  |
+
+**** stage 2 
+| systolic | diastolic |
+| \geq 160    | or \ge 100  |
+
+**** isolated systolic  
+| systolic | diastolic |
+| \geq 140    | and < 90  |
+
+*** Causes 
+1. Primary (idiopathic)
+2. secondary
+   - alcohol
+   - prego
+   - renal disease
+   - endocrine disease
+     * pheocytochroma
+     * cushing's syndrome
+     * conn's syndrome
+     * thyrotoxicosis
+     * congential adrenal hyperplasia
+   - drugs 
+     * OCPs, corticosteroids, anabolic steroids, NSAIDs
+   - Coarctation of Aorta 
+*** Clinical features  
+- most pt. are asymptomatic
+- symp related to elevated pressure itself:
+  - heache
+  - dizziness
+  - palpitation
+  - easy fatigability
+- symp related to hypertensive vascular disease
+  - epistaxis
+  - hematuria
+  - blurring of vision \to due to retinal changes
+  - angina pectoris
+- symp of underlying disease 
+*** Complications  
+**** vascular
+  - hyaline arteriosclerosis
+  - aneurysm
+  - aortic dissection
+**** cns
+  - stroke due to cerebral hemorrhage
+  - cerebral infarction
+  - SAH, intracranial hemorrhage
+**** \heartsuit
+  - \uparrow risk of MI, Ischemia
+  - LVH, LVF
+  - Arrythmias
+**** others
+  - hypertensive rentionpathy
+  - progressive renal failure
+*** Management 
+**** Goals 
+1. reduce BP to optimum level
+2. prevent complications
+3. sustain controlled BP 
+**** Non pharmacological 
+1. weight reduction \to BMI < 25 kg/m^{2}
+2. dietary modifications
+   * low saturated fat diet
+   * low sodium diet < 6 g per day
+   * increase fruits and veggies
+   * 
+3. limit alcohol intake
+4. smoking cessation
+5. dynamic excercise \to at least 30 min brisk walk per day 
+**** Drug therapy 
+1. ACEI inhibitors \to enalapril 20 mg daily
+2. angiotensin receptor blockers \to losartan
+3. CCBs \to amlodipine 
+4. Diuretics
+   - thiazides
+   - loop diuretics \to furosemia 40 mg/day 
+5. \beta blockers in case of angina/MI
+*** TODO Management of hypertensive emergency 
+** Pulmonary edema  
+*** Definition
+rapid transudation of fluid out of the pulmonary capillaries into the interstitial spaces, alveoli and bronchioles, beyond the drainage capacity of the lungs 
+*** Etiology 
+1. Cardiogenic
+   - MI
+   - accelerated \beta blocker use in incipient heart failure
+   - HTN
+   - Valvular Heart Disease
+   - Congenital heart disease
+   - Tachyarrhythmias
+   - Fluid overload in LV dysfunction 
+2. Non cardiogenic
+   - ARDS
+   - Narcotic overdose
+   - Rapid evacuation of large pleural effusion
+*** Patholophysiology 
+- elevated pulmonary capillary pressure favoring transudation
+- or decreased pulmonary capillary permeability \to edema due to intercellular junction widening
+*** Clinical features 
+**** history
+1. sudden onset of breathlessness, cough and pink frothy sputum
+2. In severe cases \to cyanosis, restelessness, confusion
+**** Examination 
+- features of underlying cause
+- tachypnea
+- patient in distress, sweating profusely and use of accessory muscles
+- cool extremities
+- tachycardia
+- auscultation
+  - bilateral crepitations initially at bases 
+*** Investigations 
+- hematology \to CBC, hematocrit
+- Lipid profile
+- biochemistry \to LFT, RFT, Na^{+ }, K^{+} , coagulation profile
+- CXR 
+  - [[https://prod-images-static.radiopaedia.org/images/4195/5e7cfb6d90bbcf70e73493819e691a_jumbo.jpeg]]
+  - \uparrow cardiac silhouette
+  - reticular shadowing of alveolar edema
+  - prominent hilar vessels
+  - prominent upper lobe vessel
+  - kerley B lines
+- USG
+- CT/MRI
+*** Management 
+- monitoring of intra-arterial pressure and pulmonary pressure 
+[[https://image.slidesharecdn.com/acutepulmonaryedema-160504144314/95/acute-pulmonary-edema-25-638.jpg?cb=1462373114]]
+- treatment of underlying cause
+** TODO Cardiomyopathy 

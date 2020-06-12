@@ -1,0 +1,663 @@
+* Respiratory
+** Brochiectasis
+*** Definition
+- Abnormal dilatation of the bronchi
+- Chronic suppurative airway infection with sputum production, progressive scarring and lung damage occur
+*** Etiology 
+**** Congenital                              
+|-----------------------------------------|
+| Cystic Fibrosis                         |
+| Ciliary Dysfunction Syndromes           |
+| - Primary ciliary dyskinesia            |
+| - Kartageners syndrome                  |
+| Primary Hypogammaglobulinemia           |
+|-----------------------------------------|
+**** Acquired (Children)                     
+|-----------------------------------------|
+| Severe infection in infancy             |
+| Primary TB                              |
+| Inhaled Foreign Body                    |
+|-----------------------------------------|
+****  Acquired (Adults)                       
+|-----------------------------------------|
+| Suppurative pneumonia                   |
+| pulmonary TB                            |
+| Allergic bronchopulmonary aspergillosis |
+| Bronchial Tumors                        |
+|-----------------------------------------|
+*** Pathology
+- Chronic inflammation damages the walls of the bronchi leading to permanent dilatation (due to destruction of elastic elements) and profuse suppuration
+*** Clinical features 
+**** Cough
+  - chronic, daily, persistent
+**** Sputum
+  - Copious, purulent
+**** pleuritic pain
+    - when infection spreads to pleura
+    - when segmetal collapse occurs due to retained secretions
+**** Hemoptysis
+    - streaks of blood common
+    - larger volumes on exacerbation of infection
+    - massive hemoptysis sometimes
+**** infective exacerbation
+    - increased sputum volume with fever, malaise, anorexia
+**** others
+    - Halitosis
+      - frequently accompanies purulent sputum
+    - General debility
+      - difficulty managing weight, anorexia, emotional breathlessness
+*** Investigations 
+**** Sputum culture
+  - P. aeruginosa, S. aureus
+  - Aspergillus
+  - frequent cultures needed to ensure appropriate treatment of resistant bacterias
+**** X-ray
+Xray: tram line shadow, honey comb appearence
+Advance disease : thick airway wall,cystic bronchiectatic space, with areas of pneumonic concentration and collapse
+**** screen tests 
+- screening tests for congenital defects
+*** TODO Management  
+*** TODO Past questions 
+** Pulmonary Embolism 
+*** Etiology
+- propagation of lower limb deep vein thrombosis
+- rarer
+  - septic emboli (from endocarditis)
+  - tumor
+  - fat emboli following bone fracture
+*** Risk factors 
+- cigarrette smoking
+- alcoholism
+- bronchiectasis
+- bronchial obstruction
+- Immunosuppression
+- IV drug abuse
+- Recent Major Surgery
+- Pregnancy
+- Lower Limb Fractures
+- Old Age
+- Immobility
+- Trauma
+*** Clinical Features
+- clinical presentation varies on number, size and distribution of emboli
+- sudden onset of breathlessness
+- retrosternal discomfort
+- syncope
+- pleuritic chest pain
+- leg pain from DVT
+*** Types
+**** List?
+1. Acute Massive PE
+2. Acute Small/Medium PE
+3. Chronic PE
+**** Acute Massive PE
+   - embolism lodges in main pulmonary artery
+   - causes decreased cardiac output, acute right heart failure
+**** Acute Small/Medium PE
+   - occulsion of segmental pulmonary artery
+**** Chronic PE
+   - recurrent obstruction of microvasculature 
+*** Investigations  
+**** list?
+1. X-ray
+2. ECG
+3. ABG
+4. Blood D-dimer
+5. CR Pulomonary Angiography (CTPA)
+6. color doppler ultrasound of the leg veins
+7. Echocardiography
+
+**** X-ray 
+  - Usually normal, but important in ruling out differentials
+  - elevated hemidiaphragm
+  - oligemia of lung field
+  - various opacities
+    - horizontal linear
+    - wedge shaped
+    - pulomnary 
+  - pleural effusion (blood stained on aspiration)
+  - enlarged pulmonary artery
+**** ECG 
+  - also useful in ruling out differentials
+  - sinus tachycardia and ant. T wave inversion
+**** ABG
+  - reduced PaO2
+  - normal/low PaCO2
+**** Blood D-dimer
+    - It is a fibrin degradation product, which is seen blood after fibrinolysis of blood clots
+    - -ve results rules out PE
+    - +ve with high risk is highly indicative of PE
+    - +ve result needs doing following confirmatory tests
+      - CT Pulmonary Angiogram
+      - Ultrasound leg veins
+      - V/Q scan (no previous hx of cardiopulmonary disease)
+**** CTPA
+    - first line diagnostic test
+    - visual distribution and extent of emboli
+    - provide alt diag
+**** Color doppler ultrasound of the leg veins
+    - helpful in clinical signs in limb
+    - identify leg thrombus
+**** Echocardiography
+    - assessment of circulatory collapse
+    - check for dilatation of the heart 
+*** Management
++ General measures
+  - oxygen supplementation
+  - analgesics
+    * opiates may be required, but use with caution in hypotensive
+  - IV fluids to correct hypotension
+*** Specific Therapy
+**** components?
+1. anticoagulation
+2. thrombolysis
+3. surgical
+**** Anticoagulation
+     * heparin 
+       use until INR > 2
+     * warfarin 
+       use to achieve INR of 2-3
+       contraindicated in pregnancy
+**** Thrombolysis
+     * acute massive PE with cardiogenic shock 
+     * RV dysfunction
+     * includes streptokinase, urokinase
+**** Surgical
+     * venacaval filters for recurrent PE, or patients under anticoagulants
+
+*** Differentials
+1. MI
+2. pericardial tamponade
+3. aortic dissection
+4. pneumonia
+5. pneumothorax
+6. pulmonary hypotension 
+** Cor Pulmonale
+*** Definition 
+Right ventricular enlargement with or without right ventricular failure due to pulmonary parenchymal disease, chest wall disease or disease of pulmonary vasculature without any cardiac disease
+*** Etiology
+1. Lung disease
+   * asthma
+   * copd
+   * bronchiectasis
+   * pulmonary fibrosis
+2. Pulmonary Vascular Disease
+   * pulmonary emboli
+   * pulmonary vasculitis
+   * primary pulmonary hypertension
+   * ARDS
+3. Thoracic Cage Abnormalities
+   * kyphosis
+   * scoliosis
+4. Neuromuscular Disease
+   * myaesthenia gravis
+   * polio
+5. Hypoventilation
+   * sleep apnea
+   * cerebrovascular diseases
+*** Clinical Features 
+**** Symptoms
+  1. dyspnea
+  2. fatigue
+  3. syncope
+**** signs
+  1. cyanosis
+  2. tachycardia
+  3. raised jvp
+  4. right ventricular heave
+     * loud P2
+     * pansystolic murmur
+     * early diastolic  graham steele murmur
+     * hepatomegaly and edema if in failure 
+*** Investigation 
+**** list?
+1. CBC
+2. ABG
+3. Chest x ray
+4. ECG
+**** CBC
+   - increased Hb and hematocrit
+**** ABG
+   hypoxia with(out) hypercapnia
+**** Chest X Ray
+   - enlarged right atrium and ventricle
+   - prominent pulmonary arteries
+**** ECG
+   - P pulmonale
+   - right axis deviation
+   - right ventricular hypertrophy
+*** Management 
+- treat the underlying cause
+- treat respiratory failure
+- treat cardiac failure with diuretics (furosemide)
+*** TODO Differentials
+** TODO Interstitial Lung Disease (Diffuse Parenchymal Lung Disease)  
+*** TODO Definition 
+*** TODO Etiology
+*** TODO Clinical Features
+*** TODO Investigations
+*** TODO Management
+** TODO Lung tumors
+** COPD
+*** Definition 
+- preventable and treatable disease characterized by persistent airflow limitation that is usually progressive and associated with enhanced chronic inflammatory response in the airways and the lungs to noxious particles or gases. Includes chronic bronchitis and emphysema
+
+*** chronic bronchitis 
+cough and sputum for at least 3 consecutive months in each of 2 consecutive years
+
+*** Emphysema?  
+Abnormal permanent enlargement of airspaces to the terminal bronchioles 
+
+*** Clinical Features  
+
+**** symptoms
+  - cough
+  - sputum
+  - breathlessness worsened with exertion
+  - edema 
+  - morning headaches (due to hypercapnia)
+
+**** signs
+  - pulmonary 
+    1. Related to CO2 retention
+       * central cyanosis
+       * flapping tremors
+       * bounding pulse
+       * warm peripheries
+    2. features of cor pulmonale (RVF + pulmonary HTN)
+       * peripheral edema
+       * raised jvp
+       * right ventricular heave  
+*** Investigations 
+**** list?
+1. chest x ray
+2. ABG (hypercapnia and hypoxia)
+3. CBC (increased Hb, Decreased PCV)
+4. PFT
+5. ECG
+
+**** Chest X-ray
+   * increased AP diameter 
+   * hyperinflation
+   * large central pulmonary arteries
+   * Decreased peripheral vascular markings
+   * Bulla
+   * Tender heart shadow
+**** PFT
+   * definitive diagnosis when post post bronchodilator FEV1/FVC < 70%
+   * post bronchodilator FEV1 used to grade severity
+   * incomplete improvement with brochodilators in contrast to asthma (<12%)
+**** ECG
+   * right atrial and ventricular hypertrophy
+   * poor regression of R wave
+*** Differentials  
+1. pneumonia
+2. Upper airway obstruction
+3. left ventricular failure
+4. pulmonary embolism
+5. lung cancer
+6. chronic asthma
+7. tb
+8. bronchiectasis
+9. CCF
+*** Management  
+**** Non pharmacological
+   - smoking cessation
+   - use of domiciliary oxygen
+     * criteria => PaO2 < 55 mmHg or SaO2 < 88%
+   - influenza and pneumococcal vaccination
+   - dietary changes to address malnutrition and obesity
+   - encourage excercise 
+**** Pharmacological
+   - anticholinergics => ipratropium
+   - SABA => albuterol
+   - inhaled steroids
+   - LABA => salmeterol
+   - treatment of coexisting infections with azithromycin, IV ceftriaxone
+**** Surgery 
+   - lung volume reduction in select cases such isolated bullous disease or recurrent pneumothorax 
+*** Complications 
+1. cor pulmonale
+2. acute exacerbation
+3. respiratory failure
+4. pneumothorax
+5. mental status deterioration
+6. osteoporosis
+7. renal failure
+** Asthma
+*** Definition
+chronic inflammatory disorder of the airways associated with airway hyper-responsiveness that leads to recurrent episodes of wheezing, breathlessness, chest tightedness and coughing, particularly at night and in the early morning 
+*** Characteristics  
+1. Airway hyperresponsiveness
+2. Inflammatory hyperreactivity
+3. Reversibility
+4. Mucosal inflammation
+5. bronchial musculature constriction and hypertrophy
+6. excessive mucus secretions and plugging
+*** Precipitating factors
+1. Genetics
+2. Allergens eg. house dust, mites and dander
+3. environmental conditions, cold air, air pollution
+4. occupational exposure to industrial chemicals, drugs, metals, dusts
+5. Infections
+6. Excercise
+7. Emotional load
+*** Clinical features
+ - recurrent wheezing
+ - chest tightness
+ - breathlessness
+ - cough
+ - mucoid sputum
+ - worse symptoms at night
+ - prolonged expiratory phase of respiration
+ - increased use of respiratory muscles
+*** Investigations  
+**** Pulmonary function test
+   - used with appropriate clinical symptoms to make definite diagnosis
+   - findings
+     * FEV > 12% (and 200 mL) increase with bronchodilators
+     * > 20% diurnal variation on > 3 days a week for 2 weeks on PEF diary
+     * FEV > 15% decrease after 6 min excercise
+**** Chest X-ray
+   - usually normal and used to rule of out pneumonia, pneumothorax, CHF
+   - may show hyperinflation, lobar collapse
+**** ABG and Peak Expiratory Flow
+   - initial test for acute exacerbation 
+**** Additional tests
+   - CBC :: increased eosinophils
+   - increaesd ige :: give anti-IgE meds (omalizumab)
+   - skin prick tests
+   - stimulation challenge test :: excercise, cold, histamine,
+   - ECG :: to rule out RVH, cor pulmonale 
+
+*** Differentials 
+1. Upper airway obstruction (tumor, vocal cord, paralysis, orolaryngeal edema)
+2. endobronchial disease (eg. foreign body aspiration, neoplasm, bronchial stenosis)
+3. Left ventricular failure
+4. Carcinoid tumors
+5. recurrent pulmonary emboli
+6. COPD
+7. eosinophilic pneumonias
+8. systemic vasculitis
+*** Complications 
+1. Bronchiectasis
+2. Cor pulmonale
+3. Pneumothorax
+4. Arrythmias
+5. Respiratory Failure
+6. Atelectasis
+*** Management
+**** list
+1. Patient Education
+2. Avoidance of precipitating factors
+3. Target of treatment
+   - daytime symptoms less than 2 times a week
+   - no night symptoms
+   - no exacerbations
+   - normal lung functions
+   - no limitation on activities
+4. Stepwise approach
+**** Stepwise approach
+***** Step I 
+   \to occasional use of Short Acting beta agonist (SABA)
+     - for patients with mild intermittent symptoms  
+     - Albuterol
+     - Pirbuterol
+     - Levalbuterol
+***** Step II 
+   \to SABA + Inhaled Corticosteroids (ICS)
+     Introduction of regular preventer therapy
+     - low dose ICS for initial long term control
+     - beclomethasone, budesonide, fluinisonide fluticasone
+     - indicated in:
+       + has experienced exacerbation of asthma in last 2 years
+       + uses beta agonists > 3 times a week
+       + reports symp > 3 times a week
+       + awakened by asthma one night per week
+     - less effective alternates to ICS (chromones, leukotriene receptor antagonist, theophyllines) 
+***** Step III 
+\to SABA + ICS + LABA
+     - if patient remains poorly controlled despite regular use of ICS, consider add on therapy
+     - Add LABA such as formetorol, salmeterol
+***** Step IV 
+\to Addition of fourth drug if poor control on moderate ICS with add on therapy
+     - nasal glucocorticoid
+     - leukotriene receptor antagonist
+     - theophyllines
+     - long acting muscarinic agents
+     - slow release beta agonists
+***** Step V 
+\to continuous or frequent use of oral glucocorticoids
+     - prednisolone thearpy in the lowest dose possible
+     - single dose in the morning
+***** step down
+     - once under control, dose of oral or inhaled steroid must be titrated to lowest possible dose under which symptoms are under control 
+
+** TODO Status Asthmaticus
+** Pneumonia
+*** Definition
+- acute respiratory illness associated with recently developed radiological pulomonary shadowing that may be segmental, lobar, multilobar 
+*** Classification 
+**** By site
+  * lobar => localized, with whole of one or more lobes affected
+  * bronchopneumonia => diffuse, primarily affect the lobules of the lung 
+**** etiology
+  * bacterial
+  * viral
+  * protozoal
+  * atypical
+  * chemical
+  * radiotherapy
+**** basis of acquisition
+  * community acquired
+  * hospital acquired
+  * aspiration
+  * immuno-compromised
+
+*** Community Acquired Pneumonia
+**** TODO Definition
+**** clinical features
+***** symptoms
+  - cough
+    * characteristically short, painful, dry at first
+    * later becomes productive and may become rusty
+  - fever
+    * temperature rises in a few hours, associated with chills and rigor
+  - pleuritic chest pain
+    * aggravated by coughing, deep breathing or moving
+    * occasionally referred to shoulder or ant. abd. wall
+  - confusion
+  - others
+    * malaise
+    * anorexia
+    * dyspnea
+***** signs
+****** general
+    * pyrexia, tachycardia, tachypnea
+    * hypotension and confusion
+    * upper abd. tenderness in lower lobar pneumonia
+    * cyanosis
+****** pulmonary
+    * within 24 hours
+      + decreased respiratory movements
+      + pleural rub on affected side
+      + fine crepitations
+****** on 2nd/3rd day: appearance of signs of consolidation
+      + decreased movement of affected side of chest
+      + increased vocal fremitus
+      + dull note over consolidated area
+      + bronchial breath sounds
+      + increased vocal resonance
+****** in the resolution phase
+      + coarse crepitations
+      + parapneumonic pleural effusion
+      + x-ray findings of pleural effusion
+      + stony dullness  on percussion
+**** curb65 scoring  
+***** CURB65 Score
+\to (1 pt for each feature)
+    + Confusion
+    + Urea > 7 mmol/L
+    + Respiratory Rate > 30/min
+    + Blood pressure (systolic < 90mmHg or diastolic < 60mmHg)
+    + Age > 65 years
+***** Interpretation
+      - If score is
+        1. 0 or 1 :: likely suitable for home treatment
+        2. 2      :: Consider hospital treatment (short stay inpatient or hospital supervised outpatient)
+        3. 3 of more :: manage in hospital as severe pneumonia and assess for ICU if 4-5
+**** Differentials
+1. Pulmonary infarction
+2. Pulmonary, pleural tb
+3. Pulomary edema (can be unilateral)
+4. pulmonary eosinophilia
+5. malignancy (brochoalveolar cell carcinoma)
+**** Management 
+- Oxygen
+  + administer to all patients with :: tachypnea, hypoxemia, hypotension, acidosis
+  + high concentration (>35%), preferably humidified
+  + Continuous Positive Airway Pressure :: if high conc O2 don't work
+- Fluid Therapy
+  + consider in severe illness
+- Antiobiotic treatment
+  + Uncomplicated CAP :: Amoxicillin 500 mg, 3 times a day orally
+  + Severe CAP :: Clairithromycin 500 mg twice a day IV / Erythromycin 500 mg 4 times IV
+   : plus co-amoxiclav 1.2g 3 times a day IV/ ceftriaxone 1-2g dailyIV/ cefuroxime 1.5g 3 times a day IV
+   : plus Amoxicillin 1 g 4 times IV daily
+   : plus flucloxacillin 2g 4 times daily IV
+- Treatment of pleuritic pain
+  + import to allow patient to cough and breathe normally
+  + simple analgesia with NSAIDs 
+- physiotherapy
+**** Investigation
+- Blood
+  - CBC 
+  - Urea and electrolytes
+  - LFT
+  - ESR
+  - Blood culture
+- Sputum
+- Oropharynx swab
+- Urine
+- Chest X-ray
+  - lobar consolidation with parapneumonic effusion
+- thoracocentesis  
+**** Risk factors 
+1) cigarrete smoking
+2) URTI
+3) Alcohol
+4) Glucocorticoid therapy
+5) Old age
+6) HIV
+7) Indoor air pollution
+**** Indications to refer to ICU
+1. CURB65 of 4-5
+2. persistent hypoxia
+3. progressive hypercapnia
+4. severe acidosis
+5. circulatory shock
+6. reduced consciousness
+** Tuberculosis
+*** risk factors 
+**** pt. related
+1. age (children > adults > elderly)
+2. first gen immigrants from high prevalence regions
+3. close contacts of pt. with smear +ve pulmonary TB
+4. overcrowding
+5. chest radiographic evidence of self healed TB
+6. primary infection < 1 year prev.
+7. smoking 
+**** associated diseases
+1. immunosuppresion (HIV, Anti-TNF therapy, corticosteroids, cytotoxic agents)
+2. malignancy (lymphoma and leukemia)
+3. type I DM
+4. chronic renal failure
+5. silicosis
+6. GI diseases assoc. w/ malnutrition
+7. deficiency of Vit A or Vit D
+8. recent measles 
+*** primary pulmonary Tb 
+
+**** definition 
+infection of a previously uninfected (tuberculin -ve)
+**** features 
+***** components?
+- infection (4-8 weeks)
+- Disease
+- Hypersensitivity 
+***** infection 
+- influenza like
+- primary complex
+- skin test conversion 
+***** 
+**** findings 
+- results from an initial infection with tubercle bacili
+- localised to middle and lower lung zones
+- lesion usually peripheral and assoc w/ hilar or paratracheal lymph node enlargement
+- lesion heals spontaneously and may later be seen as a small calcified nodule \to ghon's lesions
+- ghon's complex \to ghon's focus + Hilar LN 
+[[https://oncohemakey.com/wp-content/uploads/2016/08/C4-FF3.gif]]
+**** progression to clinical illness?  
+- clinical illness develops in immunocompromised pt.
+- pleural effusion \to tubercular empyema
+- necrosis and acute cavitation of the primary lesion \to progressive primary TB
+- bloodstream dissemination
+**** natural history 
+|---------------------+---------------------------------------------------------|
+| Time from infection | manifestations                                          |
+|---------------------+---------------------------------------------------------|
+| 3-8 weeks           | primary complex, +ve tuberculin test                    |
+| 3-6 months          | meningeal, miliary and pleural disease                  |
+| Up to 3 years       | GI, bone, and joint, and lymph node disease             |
+| Around 8 years      | Renal Tract Disease                                     |
+| From 3 years onward | Post primary desease due to reactivation or reinfection |
+|---------------------+---------------------------------------------------------|
+*** post primary pulmonary tb  
+
+**** definition 
+- exogenous ('new'infection) or endogenous (reactivation of a dormant primary lesion) infection in a person who has been sensitized by earlier exposure
+- characteristically occures in the apex of an upper lobe \to O_{2} tension favors survival of the strictly aerobic organism like ours truly M. tb 
+**** clinical features  
+1. majority \to asymp
+2. early tb \to nonspecific \to fever, night sweats, weight loss, anorexia and lethargy
+3. cough with purulent sputum assoc. w/ hemoptysis
+4. pleuritic chest pain \to seen in pt. w/ subpleural lesions  
+
+**** systemic presentation of extrapulmonary tb 
+
+***** pic
+https://img.grepmed.com/uploads/5278/infectiousdiseases-symptoms-tuberculosis-diagnosis-extrapulmonary-original.jpeg
+
+**** Diagnosis 
+
+***** specimen
+1. Pulmonary 
+   - sputum (induce with hypertonic saline if pt. not expectorating)
+   - bronchoscopy with washing or Bronchoalveolar Lavage (BAL)
+   - Gastric washing (for kids)
+2. Extrapulmonary 
+   - fluid examination \to
+     + cerebrospinal
+     + ascitic
+     + pleural
+     + pericardial
+     + jt
+   - tissue biopsy \to bone marrow, liver 
+***** diagnostic tests
+- tuberculin skin test
+- stains
+  - ziehl-neelsen
+  - auramine fluorescence
+- nucleic acid amplification \to PCR
+- Culture
+  - Solid media (lol) \to L{\"o}wenstein-jensen
+  - liquid media (hehe) \to MGIT
+- Pleural fluid \to adenosine deaminase
+***** baseline blood tests
+ - CBC
+ - CRP
+ - ESR
+ - Urea
+ - Electrolytes
+ 
+
