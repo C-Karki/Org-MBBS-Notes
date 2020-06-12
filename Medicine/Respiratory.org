@@ -27,11 +27,15 @@
 |-----------------------------------------|
 *** Pathology
 - Chronic inflammation damages the walls of the bronchi leading to permanent dilatation (due to destruction of elastic elements) and profuse suppuration
+[[https://media.springernature.com/m685/springer-static/image/art%253A10.1038%252Fs41572-018-0042-3/MediaObjects/41572_2018_42_Fig1_HTML.png]]
+[[https://epomedicine.com/wp-content/uploads/2016/02/bronchiectasis-pathogenesis.jpg]]
 *** Clinical features 
 **** Cough
   - chronic, daily, persistent
+[[https://media.springernature.com/lw685/springer-static/image/art%253A10.1186%252Fs12890-018-0638-0/MediaObjects/12890_2018_638_Fig1_HTML.gif]]
 **** Sputum
   - Copious, purulent
+[[https://media.springernature.com/lw685/springer-static/image/art%253A10.1186%252Fs12890-018-0638-0/MediaObjects/12890_2018_638_Fig1_HTML.gif]]
 **** pleuritic pain
     - when infection spreads to pleura
     - when segmetal collapse occurs due to retained secretions
@@ -39,6 +43,7 @@
     - streaks of blood common
     - larger volumes on exacerbation of infection
     - massive hemoptysis sometimes
+[[https://armandoh.org/wp-content/uploads/2016/06/Sands.jpg]]
 **** infective exacerbation
     - increased sputum volume with fever, malaise, anorexia
 **** others
@@ -51,12 +56,15 @@
   - P. aeruginosa, S. aureus
   - Aspergillus
   - frequent cultures needed to ensure appropriate treatment of resistant bacterias
+[[https://armandoh.org/wp-content/uploads/2016/06/pathogens.jpg]]
 **** X-ray
 Xray: tram line shadow, honey comb appearence
 Advance disease : thick airway wall,cystic bronchiectatic space, with areas of pneumonic concentration and collapse
+[[https://s3.amazonaws.com/static.wd7.us/3/34/Bronchiectasis-4.jpg]]
 **** screen tests 
 - screening tests for congenital defects
-*** TODO Management  
+*** Management  
+[[https://armandoh.org/wp-content/uploads/2016/06/Mx1.jpg]]
 *** TODO Past questions 
 ** Pulmonary Embolism 
 *** Etiology
@@ -65,6 +73,7 @@ Advance disease : thick airway wall,cystic bronchiectatic space, with areas of p
   - septic emboli (from endocarditis)
   - tumor
   - fat emboli following bone fracture
+
 *** Risk factors 
 - cigarrette smoking
 - alcoholism
@@ -244,19 +253,18 @@ Right ventricular enlargement with or without right ventricular failure due to p
 
 *** chronic bronchitis 
 cough and sputum for at least 3 consecutive months in each of 2 consecutive years
-
+[[http://armandoh.org/wp-content/uploads/2015/11/Pathology2.jpg]]
 *** Emphysema?  
 Abnormal permanent enlargement of airspaces to the terminal bronchioles 
-
+[[http://armandoh.org/wp-content/uploads/2015/11/Pathology2.jpg]]
 *** Clinical Features  
-
 **** symptoms
   - cough
   - sputum
   - breathlessness worsened with exertion
   - edema 
   - morning headaches (due to hypercapnia)
-
+[[https://armandoh.org/wp-content/uploads/2015/11/Sands.jpg]]
 **** signs
   - pulmonary 
     1. Related to CO2 retention
@@ -268,6 +276,7 @@ Abnormal permanent enlargement of airspaces to the terminal bronchioles
        * peripheral edema
        * raised jvp
        * right ventricular heave  
+[[https://armandoh.org/wp-content/uploads/2015/11/Sands.jpg]]
 *** Investigations 
 **** list?
 1. chest x ray
@@ -275,6 +284,7 @@ Abnormal permanent enlargement of airspaces to the terminal bronchioles
 3. CBC (increased Hb, Decreased PCV)
 4. PFT
 5. ECG
+[[https://armandoh.org/wp-content/uploads/2015/11/Ix-and-Dx.jpg]]
 
 **** Chest X-ray
    * increased AP diameter 
@@ -283,13 +293,16 @@ Abnormal permanent enlargement of airspaces to the terminal bronchioles
    * Decreased peripheral vascular markings
    * Bulla
    * Tender heart shadow
+[[https://prod-images-static.radiopaedia.org/images/266487/d35992af9e42aba7d71001c13843c3_gallery.jpg]]
 **** PFT
    * definitive diagnosis when post post bronchodilator FEV1/FVC < 70%
    * post bronchodilator FEV1 used to grade severity
    * incomplete improvement with brochodilators in contrast to asthma (<12%)
+[[https://sketchymedicine.com/wp-content/uploads/2011/10/20111016-190214.jpg]]
 **** ECG
    * right atrial and ventricular hypertrophy
    * poor regression of R wave
+[[https://image.slidesharecdn.com/ecgincopd-151007203639-lva1-app6891/95/ecgekg-changes-in-copd-7-638.jpg?cb=1444250456]]
 *** Differentials  
 1. pneumonia
 2. Upper airway obstruction
@@ -314,6 +327,7 @@ Abnormal permanent enlargement of airspaces to the terminal bronchioles
    - inhaled steroids
    - LABA => salmeterol
    - treatment of coexisting infections with azithromycin, IV ceftriaxone
+[[https://armandoh.org/wp-content/uploads/2015/11/Mx.jpg]]
 **** Surgery 
    - lung volume reduction in select cases such isolated bullous disease or recurrent pneumothorax 
 *** Complications 
