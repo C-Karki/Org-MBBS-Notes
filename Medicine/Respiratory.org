@@ -1,5 +1,219 @@
 * Respiratory
-** Brochiectasis
+** Cough 
+
+*** causes 
+**** acute 
+   - inhaled foreign body
+   - respi tract infection
+**** chronic 
+***** productive 
+1. COPD \to mucoid/purulent 
+2. TB \to bloodstained
+3. Bronchiectasis \to purulent
+4. pulmonary edema \to pink, frothy
+5. lung cancer \to bloodstained
+6. pulmonary embolism \to bloodstained 
+***** non productive 
+1. asthma
+2. Gasto-esophageal reflux
+3. drugs (ACEI)
+** Hemoptysis  
+*** causes 
+**** categories
+1. bronchial 
+2. parenchymal diseases
+3. lung vascular disease
+4. cardiovascular
+5. blood disorders 
+**** bronchial 
+1. suppurative
+2. pneumonia
+3. tb
+4. lung abscess
+5. pulmonary edema
+6. trauma
+7. aspergilloma
+8. actinomycosis
+**** lung vascular disease 
+1. pulmonary thromboembolism
+2. pulmonary infarction
+3. goodpasture's syndrome
+4. polyarteritis nodosa
+5. idiopathic pulmonary hemosiderosis
+**** cardiovascular 
+1. acute left ventricular failure
+2. mitral stenosis
+3. congential \heartsuit disease
+4. aortic aneurysm 
+**** blood disorders 
+1. DIC, purpura
+2. leukemia
+3. hemophilia
+4. thrombocytopenia
+5. use of anticoagulant
+*** Evaluation 
+**** history 
+***** chieft complaint
+- coughing up blood, frank or mixed w/ sputum
+- determine whether the blood is actually from respi sys or from elsewhere 
+***** important features 
+1. age of pt.
+2. duration of hemoptysis
+3. smoking hx
+4. prior lung, cardiac or renal diseases
+5. prior hemoptysis
+6. hx of skin rash
+7. travel hx
+8. fam hx of hemoptysis or brain aneurysms
+9. bleeding disorders
+10. use of anticoagulants 
+**** physical examination 
+1. ensure intact airway
+2. assessment of hemodyanmic state
+3. clubbing
+4. PE \to check legs to exclude DVT
+5. pulmonary htn \to augmented P_{2}, murmurs of triscuspid regurg
+6. lung cancer \to clubbing, cervical lymphadenopathy, horner's syndrome, wt. loss
+7. cardiac murmurs
+8. spliner hemorrhage \to IE, vasculitis
+9. skin rash \to vasculitis
+10. telangiectasis \to hereditary hemorrhagic telangiectasis 
+**** difference between hemoptysis and hematemesis 
+| Hemoptysis                           | Hematemesis                 |
+|--------------------------------------+-----------------------------|
+| cough precedes                       | nausea, vomiting precedes   |
+| frothy                               | not frothy                  |
+| pH alkaline                          | pH acidic                   |
+| mixed with macrophages & neutrophils | Mixed with food particles   |
+| past hx of respi disease             | previous hx of peptic ulcer |
+| diagnosed by bronchoscopy            | diagnosed by gastroscopy    |
+|--------------------------------------+-----------------------------|
+*** Investigations 
+1. CXR \to identify lung disease 
+2. fibreoptic bronchoscopy \to detect malignancy 
+3. pulmonary angiography \to pulmonary embolism
+4. spiral CT 
+5. ventillation perfusion (V/Q) scan 
+6. blood tests
+7. ECG
+8. serologic tests
+9. echo
+*** Management 
+**** acute 
+- reassure pt.
+- rule out hematemesis
+- start IV access and normal saline drip
+- admission to high dependency unit
+- if site of bleeding is known \to protection of the non-bleeding side \to lat. position resting on the suspected side
+- if site of bleeding unknown \to rest in upright position
+- cough suppressants
+**** subsequent 
+***** mild 
+treat underlying cause
+***** moderate
+- keep the pt. calm
+- bed rest
+- cough suppression
+- anxiolytics 
+***** massive 
+- endotracheal intubation for sever symptoms
+- O_{2} and hemodynamic resuscitation  
+- blood transfusion after grouping and cross matching
+- monitoring \to vitals, urine output, reoccurrence of bleeding
+- antifibrinolytic \to tranexamic acid
+- Emergency bronchoscopy for torrential bleeding
+- bronchial arterial catherization and embolization
+- emergency resection
+- balloon endobronchial tamponade 
+** Acute Dyspnea 
+*** Definition 
+Acute dyspnea is defined as an uncomfortable or undue subjective awareneess of breath 
+*** Causes 
+
+**** acute  
+***** duration 
+hours to days 
+
+***** categories 
+1. airway diseases
+2. pulmonary parenchymal disease
+3. disease of pleural space
+4. diseases of pulmonary vasculature
+5. cardiac
+6. others 
+***** airway diseases
+- acute exacerbation of asthma
+- acute exacerbation of COPD
+- foreign body inhalation
+- laryngeal edema
+- acute epiglotitis
+- laryngeal tumor 
+***** pulmonary parenchymal disease 
+- infections \to pneumonia
+- non-infectious \to pulmonary edema, lobar collapse
+***** disease of pleural space
+- pneumothorax
+- pleural effusion \to malignant  
+***** diseases of pulmonary vasculature
+pulmonary embolism
+***** cardiac
+- acute LVF
+- cardiac tamponade 
+***** others 
+- psychogenic hyperventilation
+- metabolic acidosis 
+**** subacute 
+***** duration 
+days to weeks
+***** categories 
+1. airway diseases
+2. pulmonary parenchymal diseases
+3. pleural diseases
+4. pulmonary vasculature
+5. cardiac
+6. neuromuscular 
+***** airway diseases
+- asathma
+- COPD
+- Chronic Bronchitis
+- Bronchiolits obliterans
+- laryngeal tumor
+***** pulmonary parenchymal diseases
+- tb
+- sarcoidosis
+- lung abscess
+- carcinoma
+***** pleural diseases
+- pleural effusion
+- diffuse pleural fibrosis 
+***** pulmonary vasculature
+- pulmonary vasculitis
+- primary pulmonary hypertension
+***** cardiac
+- chf
+- constrictive pericarditis
+- pericardial effusion
+- cardiomyopathy
+***** neuromuscular 
+- GBS
+- myaesthenia gravis 
+**** chronic 
+occurs from months to years 
+1. asthma
+2. tb
+3. COPD
+4. kyphoscoliosis
+5. ankylosing spondylitis
+6. muscular dystrophies 
+*** Management 
+1. Immediate
+   * reassure the pt.
+   * Ensure adequate airway
+   * Prop up the pt
+   * Administer O_{2} 4-6L/min
+   * Secure IV line and start 5% dextrose drip
+2. Definitive management
+** Brochiectasis 
 *** Definition
 - Abnormal dilatation of the bronchi
 - Chronic suppurative airway infection with sputum production, progressive scarring and lung damage occur
@@ -65,7 +279,7 @@ Advance disease : thick airway wall,cystic bronchiectatic space, with areas of p
 - screening tests for congenital defects
 *** Management  
 [[https://armandoh.org/wp-content/uploads/2016/06/Mx1.jpg]]
-*** TODO Past questions 
+*** TODO Past questions
 ** Pulmonary Embolism 
 *** Etiology
 - propagation of lower limb deep vein thrombosis
@@ -655,14 +869,14 @@ infection of a previously uninfected (tuberculin -ve)
 3. cough with purulent sputum assoc. w/ hemoptysis
 4. pleuritic chest pain \to seen in pt. w/ subpleural lesions  
 
-**** systemic presentation of extrapulmonary tb 
+*** systemic presentation of extrapulmonary tb 
 
-***** pic
-https://img.grepmed.com/uploads/5278/infectiousdiseases-symptoms-tuberculosis-diagnosis-extrapulmonary-original.jpeg
+**** pic
+[[https://img.grepmed.com/uploads/5278/infectiousdiseases-symptoms-tuberculosis-diagnosis-extrapulmonary-original.jpeg]]
 
-**** Diagnosis 
+*** Diagnosis 
 
-***** specimen
+**** specimen
 1. Pulmonary 
    - sputum (induce with hypertonic saline if pt. not expectorating)
    - bronchoscopy with washing or Bronchoalveolar Lavage (BAL)
@@ -675,7 +889,7 @@ https://img.grepmed.com/uploads/5278/infectiousdiseases-symptoms-tuberculosis-di
      + pericardial
      + jt
    - tissue biopsy \to bone marrow, liver 
-***** diagnostic tests
+**** diagnostic tests
 - tuberculin skin test
 - stains
   - ziehl-neelsen
@@ -685,7 +899,7 @@ https://img.grepmed.com/uploads/5278/infectiousdiseases-symptoms-tuberculosis-di
   - Solid media (lol) \to L{\"o}wenstein-jensen
   - liquid media (hehe) \to MGIT
 - Pleural fluid \to adenosine deaminase
-***** baseline blood tests
+**** baseline blood tests
  - CBC
  - CRP
  - ESR
@@ -693,7 +907,183 @@ https://img.grepmed.com/uploads/5278/infectiousdiseases-symptoms-tuberculosis-di
  - Electrolytes
 ** Pleural effusion 
 *** definition 
+- accumulation of serous fluid within the pleural space
+[[https://o.quizlet.com/quauQSvuE0yYVpUYMlthbg_b.png]]
+*** Causes 
+**** categories?
+1. Transudative
+2. Exudative
+**** Transudative
+***** define?
+pleural fluid accumulation as a result of either \uparrow hydrostatic pressure or \downarrow osmotic pressure 
+***** causes?
+1. chf
+2. nephrotic syndrome
+3. liver failure
+4. constrictive pericarditis
+5. myxoedema (hypothyroidism)
+6. malnutrition
+7. SVC syndrome
+8. atelectasis
+**** Exudative
+***** define?
+\uparrow microvascular permeability due to disease of the pleural surface itself or injury in adjacent lung 
+***** causes?
+(@PTB CAPSULE)
+1. Pneumonia
+2. Tuberculosis
+3. Bronchogenic Carcinoma
+4. Connective Tissue Disorders (RA, SLE)
+5. Absestos related benign pleural effusion
+6. Pleural mesothelioma
+7. Subdiaphragmatic disorders (subphrenic abscess, pancreatitis)
+8. Uremia
+9. Lymphoma
+10. Lymphadenitis  
+11. Pulmonary Infarction (remember as enfarction for mnemonic lol)
+**** hemothorax
+(@ABC PLANT)
+1. Anticoagulant therapy
+2. Bleeding diathesis
+3. Chest Trauma
+4. Pulmonary infarction
+5. Lymphoma and leukemia
+6. Acute Hemorrhagic pancreatitis
+7. Neoplasm
+8. Tubercular effusion 
+*** clinical features  
+**** symptoms
+- dry cough
+- pleural pain 
+- insidious onset breathlessness
+- pt. prefers to lie on affected side 
+**** signs  
+***** inspection 
+- tachypnea
+- \downarrow chest movements on the affected side
+***** palpation 
+- shift of trachea and mediastinum (apex beat) to the affected side
+- reduction in expansion on the affected side
+- fullness of chest, bulging of intercostal spaces
+- markedly \downarrow vocal fremitus
+***** percussion  
+- affected side \to stony dull 
+***** auscultation 
+- absent breath sound and vocal resonance
+- crackles above effusion (bronchial breath sounds at margin)
+*** Investigations 
+**** list?
+1. CXR
+2. Thoracocentesis
+3. pleural biopsy
+4. CT scan
+5. USG 
+6. Others
+   - sputum 
+   - Blood \to TC, DC, ESR, protein, sugar LDH, amylase 
+   - Mantoux test
+   - Lymph node biopsy 
+**** CXR
 
+***** overview
+[[https://image.slidesharecdn.com/radiopresentation-111013222804-phpapp01/95/chest-radiograph-for-interns-41-728.jpg?cb=1318601880]]
+***** PA view 
+- can detect 200 mL fluid
+- [[https://image.slidesharecdn.com/pleuraleffusion-150502014611-conversion-gate01/95/pleural-effusionxray-findings-11-638.jpg?cb=1430531243]] 
+***** lat. decubtius view 
+- if pt. cannot stand
+- can detect 100 mL fluid
+- [[https://image.slidesharecdn.com/pleuraleffusion-150502014611-conversion-gate01/95/pleural-effusionxray-findings-12-638.jpg?cb=1430531243]]
+  
+***** AP view 
+- done in bed ridden pt
+- shows ground glass appearance 
 
+**** Thoracocentesis
 
+***** procedure
+[[https://i0.wp.com/rnspeak.com/wp-content/uploads/2015/04/thoracentesis-nursing-responsibilities.jpg]]
+- site: mid scapular or posterior axillary line (6-10 cm lateral to spine), and one to two intercostal spaces below the highest level of the effusion.
+  
+***** findings?
+- may suggest empyema or chylothorax by appearance
+- blood stained \to malignancy, infarction, traumatic tap
+- biochemical analysis \to exudative or transudative
 
+***** light's criteria 
+- pleural fluid / serum protein > 0.5
+- pleural fluid LDH / serum LDH > 0.6
+- pleural fluid > 200 U/L
+
+***** interpretation of light's criteria? 
+- pleural fluid is exudative if one or more criteria met 
+**** USG 
+- most accurate at measure volume of fluid
+- can detect as little as 50 mL fluid
+- used to guide thoracentesis and pleural biopsy 
+
+**** pleural biopsy  
+under guidance of USG/CT, most accurate test for pleural tb 
+
+**** CT 
+more sensitive than x ray, distinguishes between benign from malignant pleural disease
+
+*** Management
+
+**** list? 
+1. bed rest
+2. therapeutic pleural aspiration \to to palliate breathlessness
+3. treat underlying cause
+4. chest tube insertion
+5. pleurodesis \to removal of pleural space in malingnant effusion  
+  
+**** therapeutic pleural aspiration 
+
+***** indications
+1. large effusion upto clavicle
+2. cardiac or respiratory difficulties 
+3. secondary infection of effusion
+4. if effusion doesn't get absorbed spontaneously even after tb treatment 
+**** chest tube insertion 
+
+***** procedure 
+[[https://i.pinimg.com/originals/6b/a5/a0/6ba5a0d3c6355a4763c7c9b8634d294e.jpg]]
+
+***** indications  
+1. pleural fluid pH > 7.2
+2. pleural fluid LDH > 1000U/L
+3. pleural fluid glucose < 50% of plasma glucose
+4. +ve gram's stain on culture or empyema
+5. rapid reaccumulation 
+
+**** transudative pleural effusion  
+- treat underlying cause
+- therapeutic pleural aspiration if massive effusion causes dyspnea 
+
+**** tb pleural effusion 
+- anti-tb chemotherapy
+- prednisolone 40 mg daily orally for 1-2 months if large effusion
+  - promotes rapid absorption of fluid
+  - obviates the need for further aspiration
+  - may prevent fibrosis 
+
+**** parapneumonic effusion  
+- uncomplicated \to resolve spontaneously
+- complication (frank pus in pleural fluid) \to chest tube drainage 
+**** malignant effusion  
+- usually reaccumulate rapidly
+- drain all fluid via an intercostal tube
+-  pleurodesis
+*** Complications 
+1. Thickened Pleura
+2. Empyema thoracis
+3. Compression collapse of lungs
+4. Cardio-respi difficulties
+5. Acute pulmonary edema
+6. Hydropneumothorax 
+*** Differentials
+1. pneumonic consolidation
+2. thickened pleura
+3. Bronchogenic carcinoma
+4. Pericardial effusion
+5. Subphrenic abscess 
