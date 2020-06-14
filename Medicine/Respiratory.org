@@ -126,9 +126,11 @@ Advance disease : thick airway wall,cystic bronchiectatic space, with areas of p
     - pulomnary 
   - pleural effusion (blood stained on aspiration)
   - enlarged pulmonary artery
+  [[https://epomedicine.com/wp-content/uploads/2017/10/pulmonary-embolism-xray.gif]]
 **** ECG 
   - also useful in ruling out differentials
   - sinus tachycardia and ant. T wave inversion
+    [[https://i.pinimg.com/originals/a0/bb/7b/a0bb7b9325024553923678c362e281b2.jpg]]
 **** ABG
   - reduced PaO2
   - normal/low PaCO2
@@ -144,6 +146,7 @@ Advance disease : thick airway wall,cystic bronchiectatic space, with areas of p
     - first line diagnostic test
     - visual distribution and extent of emboli
     - provide alt diag
+    [[https://www.researchgate.net/publication/273509634/figure/fig2/AS:324224116903943@1454312461760/CT-pulmonary-angiography-CTPA-showinga-bilateral-pulmonary-embolisms-with-clots-in.png]]
 **** Color doppler ultrasound of the leg veins
     - helpful in clinical signs in limb
     - identify leg thrombus
@@ -224,6 +227,7 @@ Right ventricular enlargement with or without right ventricular failure due to p
 2. ABG
 3. Chest x ray
 4. ECG
+[[https://www.researchgate.net/profile/Thenappan_Thenappan/publication/224899753/figure/fig11/AS:203031309230088@1425417844228/Images-obtained-in-35-year-old-male-with-cor-pulmonale-A-S1Q3T3-pattern-noted.png]]
 **** CBC
    - increased Hb and hematocrit
 **** ABG
@@ -231,10 +235,12 @@ Right ventricular enlargement with or without right ventricular failure due to p
 **** Chest X Ray
    - enlarged right atrium and ventricle
    - prominent pulmonary arteries
+   [[https://1.bp.blogspot.com/-tKIQVtiNT4g/V_ROpSkSeOI/AAAAAAAACww/oX7znb6rDLQVCjYvzr5tgsnxC7UCIPnwACLcB/s1600/Cor%252Bpulmonale.jpeg]]
 **** ECG
    - P pulmonale
    - right axis deviation
    - right ventricular hypertrophy
+   [[https://epomedicine.com/wp-content/uploads/2014/02/COPD-RVH-ECG-1.jpg]]
 *** Management 
 - treat the underlying cause
 - treat respiratory failure
@@ -348,6 +354,7 @@ chronic inflammatory disorder of the airways associated with airway hyper-respon
 4. Mucosal inflammation
 5. bronchial musculature constriction and hypertrophy
 6. excessive mucus secretions and plugging
+[[https://armandoh.org/wp-content/uploads/2015/12/overview.jpg]]
 *** Precipitating factors
 1. Genetics
 2. Allergens eg. house dust, mites and dander
@@ -356,6 +363,7 @@ chronic inflammatory disorder of the airways associated with airway hyper-respon
 5. Infections
 6. Excercise
 7. Emotional load
+[[https://armandoh.org/wp-content/uploads/2015/12/RF.jpg]]
 *** Clinical features
  - recurrent wheezing
  - chest tightness
@@ -365,6 +373,7 @@ chronic inflammatory disorder of the airways associated with airway hyper-respon
  - worse symptoms at night
  - prolonged expiratory phase of respiration
  - increased use of respiratory muscles
+[[https://armandoh.org/wp-content/uploads/2015/12/Sands.jpg]]
 *** Investigations  
 **** Pulmonary function test
    - used with appropriate clinical symptoms to make definite diagnosis
@@ -372,9 +381,11 @@ chronic inflammatory disorder of the airways associated with airway hyper-respon
      * FEV > 12% (and 200 mL) increase with bronchodilators
      * > 20% diurnal variation on > 3 days a week for 2 weeks on PEF diary
      * FEV > 15% decrease after 6 min excercise
+[[https://armandoh.org/wp-content/uploads/2015/12/Ix.jpg]]
 **** Chest X-ray
    - usually normal and used to rule of out pneumonia, pneumothorax, CHF
    - may show hyperinflation, lobar collapse
+   [[https://prod-images-static.radiopaedia.org/images/1990842/e9b88dcb814d71067349ba34f6089e_gallery.jpg]]
 **** ABG and Peak Expiratory Flow
    - initial test for acute exacerbation 
 **** Additional tests
@@ -451,6 +462,7 @@ chronic inflammatory disorder of the airways associated with airway hyper-respon
 ** Pneumonia
 *** Definition
 - acute respiratory illness associated with recently developed radiological pulomonary shadowing that may be segmental, lobar, multilobar 
+[[https://armandoh.org/wp-content/uploads/2015/11/types1.jpg]]
 *** Classification 
 **** By site
   * lobar => localized, with whole of one or more lobes affected
@@ -485,12 +497,14 @@ chronic inflammatory disorder of the airways associated with airway hyper-respon
     * malaise
     * anorexia
     * dyspnea
+  [[https://armandoh.org/wp-content/uploads/2015/11/Sands3.jpg]]
 ***** signs
 ****** general
     * pyrexia, tachycardia, tachypnea
     * hypotension and confusion
     * upper abd. tenderness in lower lobar pneumonia
     * cyanosis
+[[https://armandoh.org/wp-content/uploads/2015/11/Sands3.jpg]]
 ****** pulmonary
     * within 24 hours
       + decreased respiratory movements
@@ -515,6 +529,7 @@ chronic inflammatory disorder of the airways associated with airway hyper-respon
     + Respiratory Rate > 30/min
     + Blood pressure (systolic < 90mmHg or diastolic < 60mmHg)
     + Age > 65 years
+[[https://sketchymedicine.com/wp-content/uploads/2012/05/CURB65.jpg]]
 ***** Interpretation
       - If score is
         1. 0 or 1 :: likely suitable for home treatment
@@ -543,6 +558,7 @@ chronic inflammatory disorder of the airways associated with airway hyper-respon
   + import to allow patient to cough and breathe normally
   + simple analgesia with NSAIDs 
 - physiotherapy
+[[https://armandoh.org/wp-content/uploads/2016/03/flowchart.jpg]]
 **** Investigation
 - Blood
   - CBC 
@@ -555,7 +571,9 @@ chronic inflammatory disorder of the airways associated with airway hyper-respon
 - Urine
 - Chest X-ray
   - lobar consolidation with parapneumonic effusion
+    [[https://upload.wikimedia.org/wikipedia/commons/8/81/Chest_radiograph_in_influensa_and_H_influenzae%252C_posteroanterior%252C_annotated.jpg]]
 - thoracocentesis  
+[[https://armandoh.org/wp-content/uploads/2016/03/ix.jpg]]
 **** Risk factors 
 1) cigarrete smoking
 2) URTI
@@ -674,3 +692,8 @@ https://img.grepmed.com/uploads/5278/infectiousdiseases-symptoms-tuberculosis-di
  - Urea
  - Electrolytes
 ** Pleural effusion 
+*** definition 
+
+
+
+
