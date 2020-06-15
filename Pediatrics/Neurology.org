@@ -1,0 +1,60 @@
+* Neurology 
+** Seizure
+*** Definition 
+Abnormal electrical discharge in the brain \to abnormal, involuntary, paroxysmal, motor, sensory, autonomic activity 
+*** Etiology 
+**** Categories? 
+1. Early Neonatal
+2. Neonatal
+3. Beyond neonatal
+4. Adolescents
+5. Young Adults
+6. Older children 
+**** Early Neonatal
+(0-7 days)
+- birth  asphyxia
+- obstructed labor
+- intracerebral hemorrahge
+- hypoglycemia
+- hypocalcemia
+- Inborn errors of metabolism
+- maternal withdrwal of medication 
+**** Neonatal Period 
+(7-30 days)
+- hypocalcemia
+- hypoglycemia
+- developmental malformations
+- meningitis
+- septicemia
+- tetanus
+**** Beyond neonatal 
+- simple febrile seizure
+- epilepsy
+- meningitis
+- Encephalitis
+- Reye's syndrome
+- hypocalcemia
+- hypomagnesemia
+- IV malformations
+**** Adolescents 
+(12-18 years)
+- trauma
+- genetic disorder
+- infection
+- brain tumor
+- drugs
+- idiopathic 
+**** young adult 
+(18-35 years)
+- trauma
+- alcohol withdrawal
+- brain tumor
+- drugs
+- idiopathic 
+**** older 
+(> 35 years)
+- alcohol withdrawal
+- brain tumor
+- idiopathic
+- alzheimer's 
+
