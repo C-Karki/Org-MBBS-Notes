@@ -1,1 +1,183 @@
-* 
+* Neurology 
+** Cerebrovascular Disease 
+*** Transient Ischemic Attack (TIA)
+**** Definition 
+- focal deficit \to such as weak limb, aphasia, or loss \to lasts fews seconds to 24 hrs
+- complete recovery regardless of whether there is imaging evidence of new permanent brain injury
+**** symptoms 
+- dependent on area of involvement
+| Ant. Circulation       | Post. Circulation           |
+|------------------------+-----------------------------|
+| carotid system         | vertebrobasilar sys         |
+| amaurosis fugax        | diplopia, vertigo, vomiting |
+| aphasia                | choking and dysarthria      |
+| hemiparesis            | ataxia                      |
+| hemisensory loss       | hemisensory loss            |
+| hemianopic visual loss | hemianopic visual loss      |
+|                        | transient global amnesia    |
+|                        | tetraparesis                |
+|                        | loss of consciousness       |
+**** Clinical findings 
+- consciousness preserved
+- clinical evidence of embolus
+  - carotid arterial bruit (stenosis)
+  - A fib or other dysrhythmias
+  - valvular heart disease
+  - recent MI
+  - difference between right and left brachial artery BP
+- underlying conidition
+  - atheroma
+  - htn
+  - postural hpn
+  - bradycardia
+  - DM
+**** Differentials
+1. Epilepsy
+2. Syncope
+3. Cardiac Dysrhythmias
+4. Basilar migraines
+5. Hydrocephalus
+6. Panic attacks
+7. pseudoseizures
+8. hypoglycemia
+*** Stroke 
+**** Definition 
+- focal neuro deficit of abrupt onset
+- due to vascular origin
+- lasting \geq 24 hours
+- manifesting as brain infarction or hemorrhage
+- with or without signs of focal higher cerebral dysfunction 
+**** types 
+***** a/c cause
+1. hemorrhagic
+2. ischemic
+***** a/c progression 
+1. transient ischemic attack \to resolves in < 24 hrs
+2. Progressing stroke
+3. Completed Stroke
+4. Reversible Ischemic Neurologic Deficit (RIND) 
+**** Etiology  
+***** Categories 
+1. Ischemic
+2. Hemorrhagic
+3. Stroke in young 
+***** Ischemic 
+- Modifiable risk factors 
+  - htn
+  - dm
+  - smoking
+  - alcohol
+  - hyperlipidemia
+  - stress
+  - sedentary lifestyle
+- Non-modifiable risk factors
+  - Age
+  - Sex
+  - Hx of DM
+  - Fam Hx
+  - Type A personality
+  - High fibrinogen level 
+***** Hemorrhagic
+1. htn
+2. aterio-venous malformation
+3. Anticoagulant therapy
+4. Drugs \to amphetamine, cocaine
+5. Alcoholism 
+***** Stroke in young 
+1. Ischemic
+   + Cardiac embolism
+   + Premature atherosclerosis
+   + Arterial dissection
+   + Thrombophilia
+   + SLE
+   + Homocysteinuria
+2. Hemorrhagic
+   + Ateriovenous malformation
+   + Drugs \to cocaine, amphetamines
+   + Anticoagulant
+3. Subarachnoid hemorrhage
+   + Saccular (berry) aneurysm
+   + ateriovenous malformation
+   + Vertebral dissection 
+**** Clinical features  
+***** Hemorrhagic
+****** general
+- very sudden onset
+- may occur during activity, exertion, height of emotion
+- sudden and severe headache
+- vomiting
+- \downarrow consciousness
+- seizures
+- diplopia
+****** Pontine 
+4Ps \to
+- pyrexia
+- Periodic respiration
+- Pinpoint pupil
+- Paralysis 
+****** Cerebellar 
+- vertigo
+- nystagmus
+- ataxia
+- coma due to brainstem compression 
+****** Thalamic 
+- Upward gaze palsy
+- Hemianaesthesia of affected limb 
+***** Ischemic  
+****** overview
+- clinical manifestation depends on area of arterial supply (Middle, Ant, Post Cerebral arteries)
+[[https://www.scienceabc.com/wp-content/uploads/2017/09/Circle-of-willis.jpg]]
+****** general 
+- may present as unilat. weakness of limbs
+- progresses rapidly over several minutes
+- associated with:
+  1) drowsiness
+  2) \downarrow consciousness
+  3) loss of speech
+****** Examination 
+features of:
+1. facial palsy
+2. hyporeflexia
+3. plantar upgoing
+4. loss of muscle tone 
+****** Middle Cerebral Artery 
+- Contralat. hemiplegia
+- Hemisensory loss
+- contralat. gaze paresis
+- contralat. visual field loss
+- aphasia 
+[[https://img.grepmed.com/uploads/4145/territory-stroke-territories-effects-diagnosis-original.png]]
+****** Ant. Cerebral Artery 
+- urinary incontinence
+- contralat. leg weakness
+- sensory deficit 
+[[https://img.grepmed.com/uploads/4145/territory-stroke-territories-effects-diagnosis-original.png]]
+****** Post. Cerebral Artery 
+- Thalamic pain
+- choreoathetosis
+- contralat. hemianopsia
+- quadrantopsia (cortical blindness)
+[[https://img.grepmed.com/uploads/4145/territory-stroke-territories-effects-diagnosis-original.png]]
+**** Examination  
+***** signs of risk factors 
+1. xanthelasma
+2. rashes \to vasculitis
+3. DVT
+4. Diabetic retinopathy
+5. htn retinopathy
+6. htn/hpn
+7. A Fib
+8. Mumur \to embolization
+9. Bruit 
+***** Neuro exam 
+1. Higher mental function
+2. Signs of meningeal irritation
+3. Cranial nerve exam
+4. motor exam \to bulk, tone, power, coordination, reflex
+5. sensory exam
+6. cortical symp \to graphesthesia, stereognosis, apraxia
+7. post. fossa \to \uparrow ICP
+8. MCA \to upper limb weak
+9. ACA \to lower limb weak
+10. Dominant side affected \to aphasia
+
