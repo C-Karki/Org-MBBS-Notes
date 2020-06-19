@@ -100,6 +100,25 @@ Clinical condition where there has been an irreversible loss of endogenous renal
 **** Signs
 ***** pic 
 [[https://www.muhadharaty.com/files/lectures/019/file19680.pptx_d/image6.png.jpg]]
+*** Investigation
+| Initial test                                 | Interpretation                                                                    |
+|----------------------------------------------+-----------------------------------------------------------------------------------|
+| Urea and Creatinine                          | \to assess progression                                                              |
+| Urinalysis and quantification of proteinuria | \to hematuria and proteinuria indicate glomerular disease and need for renal biopsy |
+|                                              | \to proteinuria indicative of progressive CKD                                       |
+|                                              |                                                                                   |
+1. 
+   2. 
+   
+   
+3. Electrolytes
+   \to identify hypokalemia and acidosis 
+4. Ca^{++} , Phospates, Parathyroid hormone, 25(OH)D
+   \to assessment renal osteodystrophy
+5. Albumin 
+   \to low albumin \to consider malnutrition, inflammation, nephrotic syndrome
+6. Full blood count 
+   \to if anemic, exclude non-renal causes
 
 *** Management 
 **** Management 
