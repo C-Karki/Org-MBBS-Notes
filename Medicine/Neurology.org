@@ -77,6 +77,7 @@
   - Fam Hx
   - Type A personality
   - High fibrinogen level 
+[[https://cdn.ps.emap.com/wp-content/uploads/sites/3/2017/11/Table-2-Behavioural-metabolic-and-envoronmental-risk-factors-for-stroke_660.jpg]]
 ***** Hemorrhagic
 1. htn
 2. aterio-venous malformation
@@ -109,20 +110,24 @@
 - \downarrow consciousness
 - seizures
 - diplopia
+[[https://bpjohannessen.github.io/medicalbible/neurology/images/ich-clinical-pres.jpg]]
 ****** Pontine 
 4Ps \to
 - pyrexia
 - Periodic respiration
 - Pinpoint pupil
 - Paralysis 
+[[https://bpjohannessen.github.io/medicalbible/neurology/images/ich-clinical-pres.jpg]]
 ****** Cerebellar 
 - vertigo
 - nystagmus
 - ataxia
 - coma due to brainstem compression 
+[[https://bpjohannessen.github.io/medicalbible/neurology/images/ich-clinical-pres.jpg]]
 ****** Thalamic 
 - Upward gaze palsy
 - Hemianaesthesia of affected limb 
+[[https://bpjohannessen.github.io/medicalbible/neurology/images/ich-clinical-pres.jpg]]
 ***** Ischemic  
 ****** overview
 - clinical manifestation depends on area of arterial supply (Middle, Ant, Post Cerebral arteries)
@@ -134,6 +139,7 @@
   1) drowsiness
   2) \downarrow consciousness
   3) loss of speech
+[[https://i.pinimg.com/originals/09/7d/a0/097da0ef40cf6b626b67d25f3d333980.jpg]]
 ****** Examination 
 features of:
 1. facial palsy
@@ -180,4 +186,222 @@ features of:
 8. MCA \to upper limb weak
 9. ACA \to lower limb weak
 10. Dominant side affected \to aphasia
+**** Investigations
+***** emergency imaging?
+CT scan 
+***** Ischemic 
+- CT scan 
+  - usually normal
+  - infarcts detectable at 1 week
+- MRI
+  - Diffusion Weighted Imaging can identiy infarcted area within minutes
+  - Conventional T2 weighted Imaging is not better than CT
+[[https://img.medscapestatic.com/article/587/073/587073-fig7.jpg]]
+- Carotid Doppler
+- Duplex
+- Angiogram
+***** Hemorrhagic 
+- CT \to demonstrates stroke immediately
+[[https://image.slidesharecdn.com/brainhemorrhagevsinfarction-pbl-140131085422-phpapp01/95/radiology-of-brain-hemorrhage-vs-infarction-6-638.jpg]]
+- MRI
+- Lumbar puncture
+***** Additional
+1. Cardiac function
+   * ECG
+   * Echo
+2. Metabolic status
+   * Blood sugar
+   * ABG
+   * Renal function
+   * Electrolyte status
+3. Blood
+4. Serology
+5. Lipid profile
+6. CXR
+**** Differentials
+1. Metabolic \to Hypoglycemia
+2. Infective \to Encephalitis, cerebral abscess
+3. Tumor \to Primary / Metastatic
+4. Trauma \to subdural hematoma
+5. Others
+   * Focal seizures
+   * Todd's paresis/palsy
+   * Demyelination
+**** Management
+***** Goals
+1. to minimize volume of brain that is irreversily damaged
+2. Prevent complications
+3. Reduce disability and handicap
+4. Reduce the risk of recurrence
+***** Components  
+1. Brief hx with caretakers \to or with pt. if s/he can speak
+2. Clinical examination 
+3. Neurological Examination
+4. Immediate Management
+5. Specific Measures
+6. Physiotherapy and mobilization
+7. Education
+8. Reduce Risk of further strokes
+9. Management of complications 
+***** Neuro Exam 
+1. GCS
+2. Examination of pupil, brainsteam reflexes, motor, sensory, cerebellar function  
+***** Immediate Management 
+- Admit pt. to high dependency unit
+- rapid assessment of vital signs and GCS
+- Maintain Airway
+- Administer O_{2} via mask
+- Open an IV line and start NS drip
+- Check BP and check for source of emboli
+- Assessment of swallowing
+- Care of Comatose
+- Monitor vitals, ICP
+- Prevention of edema
+- Maintain normal blood glucose 
+[[https://www.physio-pedia.com/images/thumb/c/c3/15-1043_l_1.jpg/350px-15-1043_l_1.jpg]]
+***** Specific Measures 
+****** Ischemic 
+******* Components 
+1. Antiplatelets
+2. Thrombolysis
+3. Anticoagulants
+4. Carotid endartectomy
+[[https://www.physio-pedia.com/images/thumb/c/c3/15-1043_l_1.jpg/350px-15-1043_l_1.jpg]]
+******* Antiplatelets 
+- Aspirin (300 mg stat and 75-150 mg / day)
+- If causes dyspepsia, give clopidogrel (75 mg)
+[[https://www.physio-pedia.com/images/thumb/c/c3/15-1043_l_1.jpg/350px-15-1043_l_1.jpg]]
+******* Thrombolysis 
+- don't iduce reperfusion hemorrhage
+- administer IV recombinant tissue plasminogen activator (rtPA)
+  - for acute cases
+  - 0.9 mg/kg @ 10% bolus @ rest over 1 hour
+- Altepase over 90 min 
+[[https://www.physio-pedia.com/images/thumb/c/c3/15-1043_l_1.jpg/350px-15-1043_l_1.jpg]]
+******* Thrombolysis C/I 
+- Blood on CT scan
+- Possible Subarachnoid Hemorrhage
+- Bleeding conditions
+- Recent neurosurgery 
+******* Anticoagulants 
+- IV heparin
+  - 5000 U bolus
+  - followed by 1000 U/hr
+- after 72-96 of starting heparin, start warfarin
+  - target INR 2-3
+   
+****** Hemorrhagic
+******* general approach
+- don't give any therapy that may intefere with clotting
+- neurosurgery may be required 
+***** Reduce risk of further strokes  
+- Ischemic \to long term antiplatelets and statins
+- A Fib \to anticoagulants to achieve INR 2-3
+- \downarrow BP
+- Correct vascular anomalies 
+***** Management of Complications 
+- Acute
+  - Aspiration pneumonia
+  - \uparrow ICP
+  - Seizures 
+- Due to prolonged immobility
+  - DVT
+  - Pulmonary embolism
+  - Bed sores
+- Bowel & bladder
+  - Constipation
+  - UTI
+**** Prevention 
+***** Primary 
+1. Treat HTN
+2. Smoking cessation
+3. Active lifestyle
+4. Moderate alcohol consumption
+5. Statin therapy
+6. Anticoagulants in A Fib
+7. Weight reduction
+8. Treating Polycythemia 
+9. ACBD^{2} score 
+***** Secondary 
+Timely and appropriate treatment 
+***** Tertiary 
+- Prevention and Management of Complications
+- Rehab 
+*** Sub Arachniod Hemorrhage 
+**** Definition 
+neurosurgical emergency caused by arterial bleeding into the subarachnoid space usually secondary to an aneurysm rupture
+**** Etiology 
+- Trauma \to most common
+- Non-traumatic
+  - Aneurysm (75%)
+  - Arteriovenous malformation
+  - Idiopathic
+  - Tumors
+**** Clinical features 
+***** History 
+1. most common < 60 years age
+2. sudden onset headache
+3. worst headache imaginable
+4. associated with nausea and vomiting
+5. transient loss of consciousness or collapse
+6. sentinel headache few days prior 
+7. photophobia 
+***** Examination 
+1. may be normal
+2. lethargy
+3. meningism
+4. 3rd cranial nerve palsy
+5. unilat. pupil dilation
+6. focal nero deficit
+**** Investigations 
+***** List?
+1. CT scan
+2. Lumbar puncture
+3. Coagulation profile
+4. Four vessel cerebral angiography to localize site
+5. Transcranial doppler to monitor vasospasm 
+***** CT scan
+- +ve within 48 hours
+- precedes lumbar puncture 
+[[https://www.jbsr.be/articles/10.5334/jbsr.1509/jbsr-102-1-1509-g1.png]]
+***** Lumbar puncture 
+- Done when CT -ve but features indicative of SAH
+- oxygenated Hb seen in CSF (appears 2-12 hours)
+- bilirubin appears later
+[[https://www.netterimages.com/images/vpv/000/000/012/12090-0550x0475.jpg]]
+**** Management  
+***** Immediate 
+1. Resuscitation
+2. Relieve headache with paracetamol
+3. Bed rest
+4. Care of unconsciousness
+5. Phenytoin for seizure prophylaxis
+6. Reverse any coagulopathies
+7. Confirm the presence of coagulopathies 
+***** Prevent complications 
+[[https://multimedia.elsevier.es/PublicationsMultimediaV1/item/multimedia/S2173580814000819:gr2.jpeg?xkr=ue/ImdikoIMrsJoerZ+w997EogCnBdOOD93cPFbanNcnxJVYM2BEAEuZ5XZLhi9ilw0pXtIix8zuC98k92/I666a/Hd+Y6kqlqt0pBrWiiASlNogSerD722qhl6O87FeENE3Rnw2ZOgulbjOJT3iC3rmkG62fRMlJ41Eb8T12jUhB1r/JK/MMrRl1RurKzog1o2/NyX+ZqLA3U+XrHUvIe9JwvhU7Ej8UpS2SJ2sNdtPHQjZU3F6tB2Q6ZBoZnxlGz6yLLqUqGH+9pLKmoyjDujFgbKJLQRdJuHJl62Ev/0]]=
+** CNS Infections  
+*** List?
+1. Acute Bacterial Meningitis
+2. Viral Meningitis
+3. Encephalitis
+4. Meningoencephalitis
+5. Focal Infections
+   * Cerebritis
+   * Brain Abscess
+   * Subdural empyema
+   * Infectious Thrombophlebitis
+6. Encephalomyelitis 
+*** Meningitis 
+**** Causes
+| Age of Onset              | Organism                           |
+|---------------------------+------------------------------------|
+| Neonates                  | Gram -ve Bacilli (E.Coli, Proteus) |
+|                           | S. pneumoniae                      |
+| Pre-School                | H. Influenzae                      |
+|                           | Neisseria meningitides             |
+|                           | S. pneumoniae                      |
+| Older children and adults | Neisseria meningitides             |
+|                           | S. pneumoniae                      |
+**** Clinical features 
 

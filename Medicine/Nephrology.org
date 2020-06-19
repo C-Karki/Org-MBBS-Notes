@@ -1,0 +1,119 @@
+* Nephrology 
+** Chronic Kidney Disease 
+*** Definition
+irreversible deterioration of renal function over years, manifested as loss of excretory, metabolic and endocrine function leading to end stage renal disease
+*** Stages  
+**** list?
+
+[[https://www.victorchengtcm.com/wp-content/uploads/2017/11/stages-of-kidney-disease.jpg]]
+**** Stage 1 
+- Mild CKD
+- kidney damage with normal or high GFR (>90)
+- asymp
+[[https://www.victorchengtcm.com/wp-content/uploads/2017/11/stages-of-kidney-disease.jpg]]
+**** Stage 2
+- GFR 60-89
+- asymp
+[[https://www.victorchengtcm.com/wp-content/uploads/2017/11/stages-of-kidney-disease.jpg]]
+**** Stage 3A
+- GFR 45-59
+- Moderate CKD
+- Usually asymp
+[[https://www.victorchengtcm.com/wp-content/uploads/2017/11/stages-of-kidney-disease.jpg]]
+**** Stage 3B
+- GFR 30-44
+- anemia in some patients
+- most are non-progressive 
+[[https://www.victorchengtcm.com/wp-content/uploads/2017/11/stages-of-kidney-disease.jpg]]
+**** Stage 4 
+- GFR 15-29
+- Severe CKD
+- First symp often at GFR < 20
+- Electrolyte problems
+[[https://www.victorchengtcm.com/wp-content/uploads/2017/11/stages-of-kidney-disease.jpg]]
+**** Stage 5
+- GFR < 15 or on dialysis
+- Kidney failure
+- singnificant symptoms and complication usually present
+- dialysis initiation usually GFR < 10
+[[https://www.victorchengtcm.com/wp-content/uploads/2017/11/stages-of-kidney-disease.jpg]]
+*** End Stage Renal Disease (ESRD)
+Clinical condition where there has been an irreversible loss of endogenous renal function of a degree sufficient to render the patient permanently dependent upon renal replacement therapy to avoid life threatening uremia.
+[[https://armandoh.org/wp-content/uploads/2016/07/sandsofeskd.jpg]]
+*** Risk Factors 
+1. Fam hx of heritable renal disease
+2. HTN
+3. Diabetes
+4. Autoimmune diseases
+5. Older age
+6. Past episode of ARF
+7. Current evidence of kidney damage with normal or even increased GFR
+[[https://armandoh.org/wp-content/uploads/2016/07/RF1.jpg]]
+*** Causes? 
+1. Diabetic nephropathy
+2. HTN nephropathy 
+3. Chronic glomerulonephritis
+4. Chronic pyelonephritis
+5. SLE, PAN
+6. Polycystic kidney disease
+7. Analgesic nephropathy
+8. Multiple myeloma
+9. Amyloidosis
+10. Obstructive uropathy 
+*** Clinical Features
+**** Symptoms 
+***** pic 
+[[https://www.myamericannurse.com/wp-content/uploads/2020/02/CKD-Symptoms-196x300.png]]
+***** general  
+- malaise
+- wt. loss
+- anorexia
+- \downarrow mental 
+[[https://www.myamericannurse.com/wp-content/uploads/2020/02/CKD-Symptoms-196x300.png]]
+***** skin 
+- pruritus
+- bruising
+- pallor
+- pigmentation 
+[[https://www.myamericannurse.com/wp-content/uploads/2020/02/CKD-Symptoms-196x300.png]]
+***** GI
+- anorexia
+- nausea, vomiting
+- peptic ulcer
+- uremic breath
+[[https://www.myamericannurse.com/wp-content/uploads/2020/02/CKD-Symptoms-196x300.png]]
+***** Respi
+- SOB (due to anemia)
+- \uparrow chance of chest infection
+- acidotic breathing (kussmaul breathing)
+[[https://www.myamericannurse.com/wp-content/uploads/2020/02/CKD-Symptoms-196x300.png]]
+***** CVS
+- HTN
+- CHF
+- LVH
+[[https://www.myamericannurse.com/wp-content/uploads/2020/02/CKD-Symptoms-196x300.png]]
+***** Renal 
+- changes in urine vol.
+- hematuria
+- nocturia
+[[https://www.myamericannurse.com/wp-content/uploads/2020/02/CKD-Symptoms-196x300.png]]
+**** Signs
+***** pic 
+[[https://www.muhadharaty.com/files/lectures/019/file19680.pptx_d/image6.png.jpg]]
+
+*** Management 
+**** Management 
+***** Components? 
+1. General
+2. Symptomatic
+3. Conservative
+4. Treatment of Complications 
+***** General 
+****** Components?
+1. Diet
+2. Fluids
+****** Diet 
+- Protein
+  - 0.6g/kg/day \to moderate CKD
+  - 2.0/kg/day \to severe CKD 
+** Acute Renal Failure 
